@@ -65,6 +65,7 @@ foreach($home_data['config_home'] as $key => $value){
                                 aria-label="Default select example">
 
                                 <option selected>Select Programs</option>
+                                <option> BSc. Information Technology </option>
                                 <option> Human Development</option>
                                 <option> Resource Management (Hospitality Management) </option>
                                 <option> Textile Science &amp; Fashion Design </option>

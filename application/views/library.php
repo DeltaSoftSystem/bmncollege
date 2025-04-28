@@ -1221,26 +1221,38 @@
                             href="mailto:library@bmncollege.com">library@bmncollege.com</a>
                     </div>
                     <div class="row pt-4">
-                        <div class="col"><a href="https://ndl.iitkgp.ac.in/" target="_blank">
+                        <div class="col-3"><a href="https://ndl.iitkgp.ac.in/" target="_blank">
                                  <img
                                     src="assets/images/National Digital Library.png">
                             </a></div>
-                        <div class="col"><a href="https://nlist.inflibnet.ac.in/" target="_blank">
+                        <div class="col-3"><a href="https://nlist.inflibnet.ac.in/" target="_blank">
                                 <img
                                     src="assets/images/N-List logo.jpg">
                             </a></div>
-                        <div class="col"><a href="https://shodhganga.inflibnet.ac.in/" target="_blank">
+                        <div class="col-3"><a href="https://shodhganga.inflibnet.ac.in/" target="_blank">
                                  <img
                                     src="assets/images/Shodhganga_Logo.jpg">
                             </a></div>
-                        <div class="col"><a href="https://epgp.inflibnet.ac.in/" target="_blank">
+                        <div class="col-3"><a href="https://epgp.inflibnet.ac.in/" target="_blank">
                                  <img
                                     src="assets/images/e-PG Pathshala.png">
                             </a></div>
-                            <div class="col"><a href="https://nmeict.ac.in/" target="_blank">
+                            <div class="col-3 mt-2"><a href="https://nmeict.ac.in/" target="_blank">
                                  <img
                                     src="assets/images/nmeict.png">
                             </a></div>
+
+                            <div class="col-3 mt-2">
+                                <a href="https://lumivero.com/products/nvivo/" target="_blank">
+                                    <img src="assets/images/nvivo.png">
+                                </a>
+                            </div>
+                            <div class="col-3 mt-2">
+                                <a href="https://www.ibm.com/products/spss-statistics" target="_blank">
+                                    <img src="assets/images/ibmspss.png">
+                                </a>
+                            </div>
+                            
 
                     </div>
 
