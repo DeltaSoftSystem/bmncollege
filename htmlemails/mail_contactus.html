@@ -1,0 +1,80 @@
+<style type='text/css'>
+    .buttonclass {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        color: #FFFFFF;
+        text-decoration: none;
+        background: #4E5256;
+    }
+    
+    .text {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 11px;
+        font-weight: normal;
+        color: #000000;
+        text-decoration: none
+    }
+    
+    .buttonclass {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        color: #FFFFFF;
+        text-decoration: none;
+        background: #4E5256;
+    }
+    
+    .rating {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 9px;
+        font-weight: bold;
+        color: #FFFFFF;
+        text-decoration: none;
+        BACKGROUND-COLOR: #4E5256
+    }
+</style>
+
+<table width="750" border="0" cellspacing="0" cellpadding="0" class="box">
+
+    <tr>
+        <td><img src="https://cetbiz.com/demo/assets/images/logo.jpg"></td>
+    </tr>
+    <tr>
+        <td bgcolor="#FFFFFF">
+            <p>
+                <font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dear Webmaster,
+                </font><br />
+                <br /> One visitor/user has filled the contact us form and Details are below <br />
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#FFFFFF" align=center>
+            <table width="800" border="0" cellpadding="3" cellspacing="1">
+                <tr>
+                    <td height="25" align="left" valign="middle" class="content">Date:</td>
+                    <td height="25" align="left" valign="middle">
+                        <?php echo date("d-m-Y");?>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td width="125" height="25" align="left" valign="middle" class="content">First Name:</td>
+                    <td width="230" height="25" align="left" valign="middle">{fname}</td>
+                </tr>
+                
+                <tr>
+                    <td width="125" height="25" align="left" valign="middle" class="content">Email:</td>
+                    <td width="230" height="25" align="left" valign="middle">{email}</td>
+                </tr>
+                
+                
+                <tr>
+                    <td width="125" height="25" align="left" valign="middle" class="content">Message </td>
+                    <td width="230" height="25" align="left" valign="middle">{message}</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+
+</table>

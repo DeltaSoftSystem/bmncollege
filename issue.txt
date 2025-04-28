@@ -1,0 +1,75 @@
+
+*) https://www.webtreeindia.com/healthlink/development/index.php/dashboard/patientsstats
+Need to add Action button to open modal box 
+
+>>done
+
+
+*) https://www.webtreeindia.com/healthlink/development/index.php/dashboard/patientsstats 
+>> Tool tip need to add on Icons Bio metrrics 
+>>done
+
+*) https://www.webtreeindia.com/healthlink/development/index.php/dashboard/patientstattsdashboard?id=068f2c14-ab9b-11ec-b15d-c4346b24f3db
+
+Need to add click on off on legend 
+>>done
+
+*) https://www.webtreeindia.com/healthlink/development/index.php/dashboard/patientstattsdashboard?id=068f2c14-ab9b-11ec-b15d-c4346b24f3db
+
+need to add legend
+>>done
+
+
+*) 
+https://www.webtreeindia.com/healthlink/development/index.php/dashboard/patientstattsdashboard?id=068f2c14-ab9b-11ec-b15d-c4346b24f3db
+
+Start position of graph 
+ >>done
+
+
+Glucose logic red and green
+(B BF)  : from threshold
+  >>done
+
+Glucose
+(B Breakfast)
+ (md/dL)
+Glucose
+(A Breakfast)
+(md/dL)
+Glucose
+(B Dinner)
+(md/dL
+
+>>done
+
+
+*) https://www.webtreeindia.com/healthlink/development/index.php/dashboard/patientsstats
+
+popup modal data issue
+>>done
+
+
+*) Schedule Conflict / Overlap
+    Delete Schedule
+    Are you sure want to delete schedule?
+ Cancel and Delete button
+>>done
+
+
+ *) https://www.webtreeindia.com/healthlink/development/index.php/dashboard/manageschedules?id=068f2c14-ab9b-11ec-b15d-c4346b24f3db
+
+ Time issue 
+ >>done
+
+ Compliance: 74.5% to Compliance: 89.3%
+ >>done
+
+
+The customer felt that just clicking on the patient name in the list was not enough, it might be better to allow them to either click on a biometric icon or the whole list card. Let me know what is easiest.
+Change MRN to P-MRN
+In the patient information screen. The phone number is US but the flag is India. Change it to US flag (this is a big miss by me, we should correct this immediately.
+The expanded screen does not have an indicator of what biometric reading it is. Can you add the icon and Label.
+
+
+===========

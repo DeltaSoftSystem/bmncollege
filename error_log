@@ -1,0 +1,1 @@
+[26-Feb-2024 12:43:34 Asia/Kolkata] PHP Fatal error:  Call to undefined function Ramsey\Uuid\Generator\random_bytes() in /home/aaryatec/bmncollege.com/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 37

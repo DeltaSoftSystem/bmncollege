@@ -1,0 +1,6 @@
+[13-Jul-2024 10:59:31 UTC] Resetting core_component cache after core upgrade to version 2024042201.03
+[15-Jul-2024 05:12:08 UTC] Resetting core_component cache after core upgrade to version 2024042201.03
+[15-Jul-2024 05:12:08 UTC] Resetting core_component cache after core upgrade to version 2024042201.03
+[15-Jul-2024 05:12:08 UTC] PHP Warning:  unlink(/home/aaryatec/moodledata/cache/core_component.php): No such file or directory in /home/aaryatec/bmncollege.com/mooc/lib/classes/component.php on line 346
+[15-Jul-2024 10:55:46 UTC] Resetting core_component cache after core upgrade to version 2024042201.03
+[17-Jul-2024 05:07:49 UTC] Resetting core_component cache after core upgrade to version 2024042201.03
