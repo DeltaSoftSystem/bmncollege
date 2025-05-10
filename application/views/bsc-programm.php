@@ -102,7 +102,7 @@
 
                             <li><a href="bsc-programm"  class="active"><i class="fa fa-graduation-cap" aria-hidden="true"></i>
 
-                                    Bachelor of Computer Science </a></li>
+                                    BSc. Information Technology </a></li>
 
 
 
@@ -162,7 +162,7 @@
 
                     <h3 class="research_title_shadow">
 
-                        Department of Computer Science (BSC)</h3>
+                        Department of Computer Applications</h3>
 
                     <!--<div class="program_txt">
 

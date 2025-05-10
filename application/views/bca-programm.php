@@ -100,7 +100,7 @@
 
                                     Foundational Courses </a></li>
 
-                            <li><a href="bsc-programm"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Bachelor of Computer Science </a></li>
+                            <li><a href="bsc-programm"><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc. Information Technology </a></li>
 
 
 

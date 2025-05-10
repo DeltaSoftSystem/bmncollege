@@ -146,7 +146,7 @@ $lang['Bachelor of Computer Applications'] = 'Bachelor of Computer Applications'
 
 $lang['Foundational Courses'] = 'Foundational Courses';
 
-$lang['Bachelor of Computer Science'] = 'Bachelor of Computer Science';
+$lang['BSc. Information Technology'] = 'BSc. Information Technology';
 
 
 $lang['Department of Human Development'] = 'Department of Human Development';

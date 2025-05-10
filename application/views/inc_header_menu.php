@@ -352,7 +352,7 @@ $contactus[] = 'contact-us';
 
                                         <li><a href="foundation-programm"><?php echo $this->lang->line("Foundational Courses");?> </a></li>
 
-                                        <li><a href="bsc-programm"><?php echo $this->lang->line("Bachelor of Computer Science");?> </a></li>
+                                        <li><a href="bsc-programm"><?php echo $this->lang->line("BSc. Information Technology");?> </a></li>
 
                                     </ul>
 

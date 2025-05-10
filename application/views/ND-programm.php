@@ -82,7 +82,7 @@
 
                         <li><a href="foundation-programm"><i class="fa fa-graduation-cap" aria-hidden="true"></i>  Foundational Courses </a></li>
 
-                        <li><a href="bsc-programm"><i class="fa fa-graduation-cap" aria-hidden="true"></i> Bachelor of Computer Science </a></li>
+                        <li><a href="bsc-programm"><i class="fa fa-graduation-cap" aria-hidden="true"></i>BSc. Information Technology</a></li>
 
                         <!--<li><a href="#"><i class="fa fa-graduation-cap" aria-hidden="true"></i> BCA Program </a></li>
 
