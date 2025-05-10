@@ -431,8 +431,13 @@ class Nopage extends CI_Controller
        }
 
         
-       if($param_page=="HD-programm" || $param_page=="RM-hospitality-programm" || $param_page=='TSAD-programm' || $param_page=='fsn-programm' || $param_page=='ND-programm' || $param_page=='bca-programm' || $param_page=='foundation-programm' || $param_page=='msc-cnd-programm' || $param_page == 'msc-cs-programm' || $param_page== 'PGDSSFN-programm' || $param_page == 'PGECE-programm'){
+       if($param_page=="HD-programm" || $param_page=="RM-hospitality-programm" || $param_page=='TSAD-programm' || $param_page=='fsn-programm' || $param_page=='ND-programm' || $param_page=='bca-programm' || $param_page=='bsc-programm' || $param_page=='foundation-programm' || $param_page=='msc-cnd-programm' || $param_page == 'msc-cs-programm' || $param_page== 'PGDSSFN-programm' || $param_page == 'PGECE-programm'){
         //echo "latest-post";
+        if ($param_page == 'bsc-programm') {
+            $actual_param = 'bca-programm';
+        } else {
+            $actual_param = $param_page;
+        }
         $data['controller'] = $this->controller;
         $data['start'] = $start =  (int)$this->uri->segment(2) ; // n=1 for controller, n=2 for method, etc
         $data['maxm'] = $maxm = 25;
@@ -443,14 +448,14 @@ class Nopage extends CI_Controller
         $data['other_para'] = "";
 
         $resultdata = array();
-        $sql = "select *    from         wti_cms_programme  b where  status_flag='Active'  and menu_name='{$param_page}' order by  b.id  asc " . $limit_qry;
+        $sql = "select *    from         wti_cms_programme  b where  status_flag='Active'  and menu_name='{$actual_param}' order by  b.id  asc " . $limit_qry;
         $query = $this->db->query($sql);
         if ($query->num_rows() > 0) {
             $resultdata = $query->result_array();
         }
         $data['results'] = $resultdata;
 
-        $sql = "select count('')  as numrows  from   wti_cms_programme  b where  status_flag='Active'  and menu_name='{$param_page}' ";
+        $sql = "select count('')  as numrows  from   wti_cms_programme  b where  status_flag='Active'  and menu_name='{$actual_param}' ";
         $query = $this->db->query($sql);
         $resultdata = $query->row_array();
         $data['num_row'] = $resultdata['numrows']; //= $this->common->numRow($this->tablename,$where_cond);

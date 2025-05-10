@@ -36,13 +36,13 @@
 
         <p class="page_breadcrumb">
 
-            <a href="<?php echo site_url('home')?>"><i class="fa fa-home" aria-hidden="true"></i>&nbsp; Home</a>
+            <a href="<?php echo site_url('home') ?>"><i class="fa fa-home" aria-hidden="true"></i>&nbsp; Home</a>
 
             <i class="fa fa-angle-right next" aria-hidden="true"></i> Programme
 
             <i class="fa fa-angle-right next" aria-hidden="true"></i> Undergraduate
 
-            <i class="fa fa-angle-right next" aria-hidden="true"></i> BCA Programme
+            <i class="fa fa-angle-right next" aria-hidden="true"></i> BSC Programme
 
         </p>
 
@@ -92,7 +92,7 @@
 
                                     &amp; Dietetics</a></li>
 
-                            <li><a href="bca-programm" class="active"><i class="fa fa-graduation-cap"
+                            <li><a href="bca-programm"><i class="fa fa-graduation-cap"
 
                                         aria-hidden="true"></i> Bachelor of Computer Applications </a></li>
 
@@ -100,7 +100,9 @@
 
                                     Foundational Courses </a></li>
 
-                            <li><a href="bsc-programm"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Bachelor of Computer Science </a></li>
+                            <li><a href="bsc-programm"  class="active"><i class="fa fa-graduation-cap" aria-hidden="true"></i>
+
+                                    Bachelor of Computer Science </a></li>
 
 
 
@@ -160,7 +162,7 @@
 
                     <h3 class="research_title_shadow">
 
-                        Department of Computer Applications (BCA)</h3>
+                        Department of Computer Science (BSC)</h3>
 
                     <!--<div class="program_txt">
 
@@ -200,7 +202,7 @@
 
                                         Programme name :
 
-                                        <span> Department of Computer Applications (BCA) </span>
+                                        <span> Bachelor of Science in Information Technology (BSc IT) </span>
 
                                     </div>
 
@@ -213,6 +215,13 @@
                                     </div>
 
 
+                                    <div class="course_one"><i class="fa fa-dot-circle-o" aria-hidden="true"></i> Program commencing from    :
+
+                                        <span> 2025 - 2026</span>
+
+                                    </div>
+
+
 
                                     <div class="course_bx_one">
 
@@ -220,21 +229,12 @@
 
                                             Eligibility : </h4>
 
-                                        <p class="bca_tile">A candidate for being eligible for admission to the three
+                                        <p class="course_list">A Women candidate must have passed the Higher Secondary School Certificate 
+                                            (Std. XII) examination conducted by the different Divisional Boards of the Maharashtra State Board 
+                                            of Secondary and Higher Secondary Education in any stream with 45% marks (40% for candidates 
+                                            belonging to Reserved category).  </p>
 
-                                            year course leading to the degree of Bachelor of Computer Applications must
-
-                                            have passed the Higher Secondary School Certificate (Std. XII) examination
-
-                                            conducted by the different Divisional Boards of the Maharashtra State Board
-
-                                            of Secondary and Higher Secondary Education with 45% marks (40% for
-
-                                            candidates belonging to Reserved category) with the following subjects :-
-
-                                            (from any stream).</p>
-
-                                        <ul class="course_list">
+                                        <!-- <ul class="course_list">
 
                                             <li><i class="fa fa-angle-right" aria-hidden="true"></i>
 
@@ -250,13 +250,18 @@
 
                                             </li>
 
-                                        </ul>
+                                        </ul> -->
 
-                                        <p class="bca_tile">OR</p>
+                                        <p class="bca_tile mt-2">OR</p>
 
-                                        <ul class="course_list">
+                                        <!-- <ul class="course_list"> -->
 
-                                            <li><i class="fa fa-angle-right" aria-hidden="true"></i>
+                                        <p class="course_list">Must have passed an examination of any other recognized Board or Body Recognized 
+                                            as equivalent. Students who have not done mathematics at 12th Std. are needed to take a bridge 
+                                            course in mathematics  </p>
+
+
+                                            <!-- <li><i class="fa fa-angle-right" aria-hidden="true"></i>
 
                                                 English </li>
 
@@ -266,21 +271,16 @@
 
                                             <li><i class="fa fa-angle-right" aria-hidden="true"></i>
 
-                                                Any three subjects carrying 100 marks each </li>
+                                                Any three subjects carrying 100 marks each </li> -->
 
-                                        </ul>
+                                        <!-- </ul> -->
 
-                                        <p class="bca_tile">OR</p>
+                                        <p class="bca_tile mt-2">OR</p>
 
-                                        <p class="bca_tile">Must have passed the Higher Secondary School Certificate
+                                        <p class="course_list">Must have passed any three year Government recognized Diploma programme in Second 
+                                            Class.</p>
 
-                                            (Std. XII) examination with the Minimum Competency based vocational courses
-
-                                            (MCVC) conducted by the different Divisional Boards of the Maharashtra State
-
-                                            Board of Secondary and Higher Secondary Education.</p>
-
-                                        <ul class="course_list">
+                                        <!-- <ul class="course_list">
 
                                             <li><i class="fa fa-angle-right" aria-hidden="true"></i>
 
@@ -308,9 +308,9 @@
 
                                                 Certificate examination from time to time. </li>
 
-                                        </ul>
+                                        </ul> -->
 
-                                        <p class="bca_tile">OR</p>
+                                        <!-- <p class="bca_tile">OR</p>
 
                                         <p class="bca_tile">Must have passed an examination of other Board or Body
 
@@ -380,7 +380,7 @@
 
                                                 Non Maths students are also eligible</li>
 
-                                        </ul>
+                                        </ul> -->
 
                                     </div>
 
@@ -406,37 +406,25 @@
 
                                         <ul class="course_list">
 
-                                            <li><i class="fa fa-angle-right" aria-hidden="true"></i>
-
-                                                The B.C.A. Programme aims to produce trained professionals in software
-
-                                                industry for Global competency. </li>
+                                        <li class="course_list">The BSc IT Programme aims  :</li>
 
                                             <li><i class="fa fa-angle-right" aria-hidden="true"></i>
 
-                                                To develop skilled manpower in the various areas of information
+                                            To produce trained professionals in information technology for global competency. </li>
 
-                                                technology like: Data base management, Software Development,
+                                            <li><i class="fa fa-angle-right" aria-hidden="true"></i>
 
-                                                Computer-Languages, Software engineering, Web based applications etc.
+                                            To develop skilled manpower in the various areas of information technology like: Hardware, Networking, Database management, Software Development, Computer-Languages, Software engineering, Web based applications, etc.
 
                                             </li>
 
                                             <li><i class="fa fa-angle-right" aria-hidden="true"></i>
 
-                                                Acquire the knowledge, skills, experience and values to become lifelong
-
-                                                learners able to obtain employment in a computer-related field or pursue
-
-                                                higher studies. </li>
+                                            To acquire the knowledge, skills, experience and values to become lifelong learners able to obtain employment in an information technology field or pursue higher studies. </li>
 
                                             <li><i class="fa fa-angle-right" aria-hidden="true"></i>
 
-                                                To create an objective platform for women who would like to work
-
-                                                independently as software developers or system analysts for any modern
-
-                                                developing systems. </li>
+                                            To create a platform for women who would like to work independently for any modern developing systems. </li>
 
                                         </ul>
 
@@ -450,40 +438,30 @@
 
                                             Programme outcomes : </h4>
 
-                                        <p class="bca_tile">BCA programme has been designed to prepare graduates for
-
-                                            attaining the following specific outcomes:</p>
+                                        <p class="bca_tile">After completing the programme students will be able to:</p>
 
                                         <ul class="course_list">
 
                                             <li><i class="fa fa-angle-right" aria-hidden="true"></i>
 
-                                                An ability to enhance the application of knowledge of theory subjects in
-
-                                                diverse fields.</li>
+                                            Develop language proficiency to handle corporate communication demands.</li>
 
                                             <li><i class="fa fa-angle-right" aria-hidden="true"></i>
 
-                                                Develop language proficiency to handle corporate communication demands.
+                                            Understand fundamental concepts of Information Technology, including operating systems, programming languages, data structures and algorithms.
 
                                             </li>
 
                                             <li><i class="fa fa-angle-right" aria-hidden="true"></i>
 
-                                                Preparing students in various disciplines of technologies such as
-
-                                                computer applications, computer networking, software engineering, web
-
-                                                designing, JAVA, database concepts and Internet programming.</li>
+                                            Demonstrate a comprehensive understanding of hardware and software components in computer systems.</li>
 
                                             <li><i class="fa fa-angle-right" aria-hidden="true"></i>
 
-                                                In order to enhance programming skills of the young IT professionals,
+                                            Prepare students in various disciplines of technologies such as computer applications, computer hardware and networking, software engineering, web designing, JAVA, artificial intelligence, database concepts and Internet programming.</li>
 
-                                                the concept of project development in using the technologies learnt
-
-                                                during the semester has been introduced.</li>
-
+                                            <li><i class="fa fa-angle-right" aria-hidden="true"></i>
+                                             programming skills of the young IT professionals, the concept of project development in using the technologies learnt during the semester.</li>
                                         </ul>
 
                                     </div>
@@ -528,7 +506,7 @@
 
                                         <h4 class="course_sb_head"><i class="fa fa-dot-circle-o" aria-hidden="true"></i>
 
-                                            MCA, MSc CS, MSc IT., MBA, Certifications</h4>
+                                        MCA, MSc CS, MSc IT., MBA, Certifications</h4>
 
                                         <!--<ul class="course_list">
 
@@ -552,11 +530,25 @@
 
                                         <ul class="course_list">
 
-                                            <li><i class="fa fa-angle-right" aria-hidden="true"></i> System Engineer,
+                                            <li><i class="fa fa-angle-right" aria-hidden="true"></i> System Engineer, Programmer, Web Developer, System Administrator, Software Developer, Information Systems Manager, Database Administrator, Security Analysts.
 
-                                                Programmer, Web Developer, System Administrator, Software Developer,
+                                            </li>
 
-                                                Information Systems Manager, Database Administrator, Security Analysts.
+                                        </ul>
+
+
+
+                                    </div>
+
+                                    <div class="course_bx_one">
+
+                                        <h4 class="course_sb_head"><i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+
+                                        Our Recruiters :</h4>
+
+                                        <ul class="course_list">
+
+                                            <li><i class="fa fa-angle-right" aria-hidden="true"></i> Deloitte, Wipro, TCS, Infosys,  I4T, Dalvik Apps, Bandhan AMC, Tech Infinity
 
                                             </li>
 
@@ -567,8 +559,7 @@
                                     </div>
 
 
-
-                                    <div class="course_bx_one">
+                                    <!--<div class="course_bx_one">
 
                                         <h4 class="course_sb_head"><i class="fa fa-dot-circle-o" aria-hidden="true"></i>
 
@@ -580,21 +571,21 @@
 
 
 
-                                        <section class="regular slider">
+                                         <section class="regular slider">
 
                                             <div>
 
-                                                <!--1-->
+                                                {--1--}
 
                                                 <div class="col-sm-12">
 
                                                     <div class="alumnae_hover">
 
-                                                        <img src="<?php echo base_url();?>assets/images/komal_shah.jpg"
+                                                        <img src="<?php echo base_url(); ?>assets/images/komal_shah.jpg"
 
                                                             alt="">
 
-                                                        <!--<div class="overlay">
+                                                        {--<div class="overlay">
 
                 <div class="overlay_cont small">
 
@@ -602,7 +593,7 @@
 
                 </div>    
 
-            </div>-->
+            </div>--}
 
                                                         <h3 class="pic_title small">
 
@@ -620,13 +611,13 @@
 
                                             <div>
 
-                                                <!--2-->
+                                                {--2--}
 
                                                 <div class="col-sm-12">
 
                                                     <div class="alumnae_hover">
 
-                                                        <img src="<?php echo base_url();?>assets/images/pooja_trivedi.jpg"
+                                                        <img src="<?php echo base_url(); ?>assets/images/pooja_trivedi.jpg"
 
                                                             alt="">
 
@@ -648,13 +639,13 @@
 
                                             <div>
 
-                                                <!--3-->
+                                                {--3--}
 
                                                 <div class="col-sm-12">
 
                                                     <div class="alumnae_hover">
 
-                                                        <img src="<?php echo base_url();?>assets/images/pooja_mone.jpg"
+                                                        <img src="<?php echo base_url(); ?>assets/images/pooja_mone.jpg"
 
                                                             alt="">
 
@@ -676,13 +667,13 @@
 
                                             <div>
 
-                                                <!--4-->
+                                                {--4--}
 
                                                 <div class="col-sm-12">
 
                                                     <div class="alumnae_hover">
 
-                                                        <img src="<?php echo base_url();?>assets/images/mitali_telang.jpg"
+                                                        <img src="<?php echo base_url(); ?>assets/images/mitali_telang.jpg"
 
                                                             alt="">
 
@@ -704,13 +695,13 @@
 
                                             <div>
 
-                                                <!--5-->
+                                                {--5--}
 
                                                 <div class="col-sm-12">
 
                                                     <div class="alumnae_hover">
 
-                                                        <img src="<?php echo base_url();?>assets/images/himanshi_ajmera.jpg"
+                                                        <img src="<?php echo base_url(); ?>assets/images/himanshi_ajmera.jpg"
 
                                                             alt="">
 
@@ -732,13 +723,13 @@
 
                                             <div>
 
-                                                <!--6-->
+                                                {--6--}
 
                                                 <div class="col-sm-12">
 
                                                     <div class="alumnae_hover">
 
-                                                        <img src="<?php echo base_url();?>assets/images/kanchan_gupta.jpg"
+                                                        <img src="<?php echo base_url(); ?>assets/images/kanchan_gupta.jpg"
 
                                                             alt="">
 
@@ -760,13 +751,13 @@
 
                                             <div>
 
-                                                <!--7-->
+                                                {--7--}
 
                                                 <div class="col-sm-12">
 
                                                     <div class="alumnae_hover">
 
-                                                        <img src="<?php echo base_url();?>assets/images/manjeet_kaur.jpg"
+                                                        <img src="<?php echo base_url(); ?>assets/images/manjeet_kaur.jpg"
 
                                                             alt="">
 
@@ -788,13 +779,13 @@
 
                                             <div>
 
-                                                <!--8-->
+                                                {--8--}
 
                                                 <div class="col-sm-12">
 
                                                     <div class="alumnae_hover">
 
-                                                        <img src="<?php echo base_url();?>assets/images/priyanka_shivkar.jpg"
+                                                        <img src="<?php echo base_url(); ?>assets/images/priyanka_shivkar.jpg"
 
                                                             alt="">
 
@@ -816,13 +807,13 @@
 
                                             <div>
 
-                                                <!--9-->
+                                                {--9--}
 
                                                 <div class="col-sm-12">
 
                                                     <div class="alumnae_hover">
 
-                                                        <img src="<?php echo base_url();?>assets/images/shivani_pawar.jpg"
+                                                        <img src="<?php echo base_url(); ?>assets/images/shivani_pawar.jpg"
 
                                                             alt="">
 
@@ -844,13 +835,13 @@
 
                                             <div>
 
-                                                <!--10-->
+                                                {--10--}
 
                                                 <div class="col-sm-12">
 
                                                     <div class="alumnae_hover">
 
-                                                        <img src="<?php echo base_url();?>assets/images/krishna_shah.jpg"
+                                                        <img src="<?php echo base_url(); ?>assets/images/krishna_shah.jpg"
 
                                                             alt="krishna_shah">
 
@@ -872,13 +863,13 @@
 
                                             <div>
 
-                                                <!--11-->
+                                                {--11--}
 
                                                 <div class="col-sm-12">
 
                                                     <div class="alumnae_hover">
 
-                                                        <img src="<?php echo base_url();?>assets/images/priyanka_pattani.jpg"
+                                                        <img src="<?php echo base_url(); ?>assets/images/priyanka_pattani.jpg"
 
                                                             alt="">
 
@@ -898,7 +889,7 @@
 
 
 
-                                        </section>
+                                        </section> 
 
 
 
@@ -906,7 +897,7 @@
 
 
 
-                                    </div>
+                                    </div>-->
 
 
 
@@ -956,7 +947,7 @@
 
                                                 <div class="faculty_pic"><img
 
-                                                        src="<?php echo base_url();?>assets/images/khan_faculty1.jpg"
+                                                        src="<?php echo base_url(); ?>assets/images/khan_faculty1.jpg"
 
                                                         alt=""></div>
 
@@ -1002,7 +993,7 @@
 
 
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/Shahajahan-Khan-Curriculum.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/Shahajahan-Khan-Curriculum.pdf"
 
                                                     target="_blank" class="iqac_link pdf">More Details</a>
 
@@ -1024,7 +1015,7 @@
 
                                                 <div class="faculty_pic"><img
 
-                                                        src="<?php echo base_url();?>assets/images/kavita_faculty.jpg"
+                                                        src="<?php echo base_url(); ?>assets/images/kavita_faculty.jpg"
 
                                                         alt=""></div>
 
@@ -1064,7 +1055,7 @@
 
 
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/Kavita-Karapurkar-Curriculam.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/Kavita-Karapurkar-Curriculam.pdf"
 
                                                     target="_blank" class="iqac_link pdf">More Details</a>
 
@@ -1086,7 +1077,7 @@
 
                                                 <div class="faculty_pic"><img
 
-                                                        src="<?php echo base_url();?>assets/images/faculty_manjitkaur.jpg"
+                                                        src="<?php echo base_url(); ?>assets/images/faculty_manjitkaur.jpg"
 
                                                         alt=""></div>
 
@@ -1126,7 +1117,7 @@
 
                                                 </div>
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/resume-manjot.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/resume-manjot.pdf"
 
                                                     target="_blank" class="iqac_link pdf">More Details</a>
 
@@ -1148,7 +1139,7 @@
 
                                                 <div class="faculty_pic"><img
 
-                                                        src="<?php echo base_url();?>assets/images/neetu_faculty.jpg"
+                                                        src="<?php echo base_url(); ?>assets/images/neetu_faculty.jpg"
 
                                                         alt=""></div>
 
@@ -1188,7 +1179,7 @@
 
 
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/Neetu_Singhi.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/Neetu_Singhi.pdf"
 
                                                     target="_blank" class="iqac_link pdf">More Details</a>
 
@@ -1210,7 +1201,7 @@
 
                                                 <div class="faculty_pic"><img
 
-                                                        src="<?php echo base_url();?>assets/images/nitin_faculty.jpg"
+                                                        src="<?php echo base_url(); ?>assets/images/nitin_faculty.jpg"
 
                                                         alt=""></div>
 
@@ -1250,7 +1241,7 @@
 
 
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/Resume-Nitin.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/Resume-Nitin.pdf"
 
                                                     target="_blank" class="iqac_link pdf">More Details</a>
 
@@ -1276,7 +1267,7 @@
 
                                                 <div class="faculty_pic"><img
 
-                                                        src="<?php echo base_url();?>assets/images/faculty_milina.jpg"
+                                                        src="<?php echo base_url(); ?>assets/images/faculty_milina.jpg"
 
                                                         alt=""></div>
 
@@ -1314,7 +1305,7 @@
 
 
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/resume-milina.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/resume-milina.pdf"
 
                                                     target="_blank" class="iqac_link pdf">More Details</a>
 
@@ -1342,7 +1333,7 @@
 
                                                 <div class="faculty_pic"><img
 
-                                                        src="<?php echo base_url();?>assets/images/shardha_faculty.jpg"
+                                                        src="<?php echo base_url(); ?>assets/images/shardha_faculty.jpg"
 
                                                         alt=""></div>
 
@@ -1380,7 +1371,7 @@
 
 
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/Sharada-Sirisilla-CV.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/Sharada-Sirisilla-CV.pdf"
 
                                                     target="_blank" class="iqac_link pdf">More Details</a>
 
@@ -1402,7 +1393,7 @@
 
                                                 <div class="faculty_pic"><img
 
-                                                        src="<?php echo base_url();?>assets/images/faculty_sudha_mam.jpg"
+                                                        src="<?php echo base_url(); ?>assets/images/faculty_sudha_mam.jpg"
 
                                                         alt=""></div>
 
@@ -1440,7 +1431,7 @@
 
 
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/resume-sudha-lawrance.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/resume-sudha-lawrance.pdf"
 
                                                     target="_blank" class="iqac_link pdf">More Details</a>
 
@@ -1474,7 +1465,7 @@
 
                                                 <div class="faculty_pic"><img
 
-                                                        src="<?php echo base_url();?>assets/images/shilpa_faculty.jpg"
+                                                        src="<?php echo base_url(); ?>assets/images/shilpa_faculty.jpg"
 
                                                         alt=""></div>
 
@@ -1514,7 +1505,7 @@
 
 
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/Shilpa-Surulkar-Resume.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/Shilpa-Surulkar-Resume.pdf"
 
                                                     target="_blank" class="iqac_link pdf">More Details</a>
 
@@ -1534,7 +1525,7 @@
 
                                                 <div class="faculty_pic"><img
 
-                                                        src="<?php echo base_url();?>assets/images/ManishaCV.png"
+                                                        src="<?php echo base_url(); ?>assets/images/ManishaCV.png"
 
                                                         alt=""></div>
 
@@ -1570,7 +1561,7 @@
 
 
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/Manisha kasar resume.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/Manisha kasar resume.pdf"
 
                                                     target="_blank" class="iqac_link pdf">More Details</a>
 
@@ -1594,7 +1585,7 @@
 
                                                 <div class="faculty_pic"><img
 
-                                                        src="<?php echo base_url();?>assets/images/faculty-salethmary.jpg"
+                                                        src="<?php echo base_url(); ?>assets/images/faculty-salethmary.jpg"
 
                                                         alt=""></div>
 
@@ -1634,7 +1625,7 @@
 
 
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/resume-salethmary-mam.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/resume-salethmary-mam.pdf"
 
                                                     target="_blank" class="iqac_link pdf">More Details</a>
 
@@ -1656,7 +1647,7 @@
 
                                                 <div class="faculty_pic"><img
 
-                                                        src="<?php echo base_url();?>assets/images/cindrella_faculty.jpg"
+                                                        src="<?php echo base_url(); ?>assets/images/cindrella_faculty.jpg"
 
                                                         alt=""></div>
 
@@ -1694,7 +1685,7 @@
 
 
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/resume-cindrella-mam.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/resume-cindrella-mam.pdf"
 
                                                     target="_blank" class="iqac_link pdf">More Details</a>
 
@@ -1706,7 +1697,7 @@
 
                                     <!--faculty-six-->
 
-                                    
+
 
                                     <div class="faculty_bx_one">
 
@@ -1716,7 +1707,7 @@
 
                                                 <div class="faculty_pic"><img
 
-                                                        src="<?php echo base_url();?>assets/images/Aditi Yadav.jpeg"
+                                                        src="<?php echo base_url(); ?>assets/images/Aditi Yadav.jpeg"
 
                                                         alt=""></div>
 
@@ -1754,7 +1745,7 @@
 
 
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/Aditi Yadav Resume (Dec'2023) (1).pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/Aditi Yadav Resume (Dec'2023) (1).pdf"
 
                                                     target="_blank" class="iqac_link pdf">More Details</a>
 
@@ -1764,11 +1755,11 @@
 
                                     </div>
 
-<!--faculty-six-->
+                                    <!--faculty-six-->
 
-                                    
 
-<div class="faculty_bx_one">
+
+                                    <div class="faculty_bx_one">
 
                                         <div class="row">
 
@@ -1776,7 +1767,7 @@
 
                                                 <div class="faculty_pic"><img
 
-                                                        src="<?php echo base_url();?>assets/images/Sukanya Vyas.jpg"
+                                                        src="<?php echo base_url(); ?>assets/images/Sukanya Vyas.jpg"
 
                                                         alt=""></div>
 
@@ -1814,7 +1805,7 @@
 
 
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/Sukanya Vyas.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/Sukanya Vyas.pdf"
 
                                                     target="_blank" class="iqac_link pdf">More Details</a>
 
@@ -1860,15 +1851,15 @@
 
 
 
-                                        <div class="col-sm-3">
+                                        <div class="col-sm-5">
 
                                             <div class="sem_bx">
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/BCA-Syllabus-semester-I.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/Proposed-Syllabus-of-BSc-IT-(2025-26).pdf"
 
                                                     target="_blank">
 
-                                                    <i class="fa fa-dot-circle-o" aria-hidden="true"></i> Semester I
+                                                    <i class="fa fa-dot-circle-o" aria-hidden="true"></i> Proposed Syllabus
 
                                                 </a>
 
@@ -1876,13 +1867,13 @@
 
                                         </div>
 
-
+<!-- 
 
                                         <div class="col-sm-3">
 
                                             <div class="sem_bx">
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/BCA-Syllabus-semester-II.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/BCA-Syllabus-semester-II.pdf"
 
                                                     target="_blank">
 
@@ -1900,7 +1891,7 @@
 
                                             <div class="sem_bx">
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/BCA-Syllabus-semester-III.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/BCA-Syllabus-semester-III.pdf"
 
                                                     target="_blank">
 
@@ -1918,7 +1909,7 @@
 
                                             <div class="sem_bx">
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/BCA-Syllabus-semester-IV.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/BCA-Syllabus-semester-IV.pdf"
 
                                                     target="_blank">
 
@@ -1936,7 +1927,7 @@
 
                                             <div class="sem_bx">
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/BCA-Syllabus-Semeste-V-new.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/BCA-Syllabus-Semeste-V-new.pdf"
 
                                                     target="_blank">
 
@@ -1954,7 +1945,7 @@
 
                                             <div class="sem_bx">
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/BCA-Syllabus-semester-VI-new.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/BCA-Syllabus-semester-VI-new.pdf"
 
                                                     target="_blank">
 
@@ -1965,14 +1956,14 @@
                                             </div>
 
                                         </div>
-
+ -->
 
 
                                     </div>
 
                                     <!--nep-->
 
-                                    <div class="row">
+                                    <!-- <div class="row">
 
                                         <div class="col-sm-12 course_one">Syllabus under NEP
 
@@ -1988,7 +1979,7 @@
 
                                             <div class="sem_bx">
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/FYBCA syllabus SEM I under NEP passed in Academic Council Meeting of 10th July 2023.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/FYBCA syllabus SEM I under NEP passed in Academic Council Meeting of 10th July 2023.pdf"
 
                                                     target="_blank">
 
@@ -2006,7 +1997,7 @@
 
                                             <div class="sem_bx">
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/FYBCA syllabus SEM II under NEP.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/FYBCA syllabus SEM II under NEP.pdf"
 
                                                     target="_blank">
 
@@ -2022,7 +2013,7 @@
 
                                             <div class="sem_bx">
 
-                                                <a href="<?php echo base_url();?>uploads/pdf/SYBCA syllabus SEM III under NEP.pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/SYBCA syllabus SEM III under NEP.pdf"
 
                                                     target="_blank">
 
@@ -2034,7 +2025,7 @@
 
                                         </div>
 
-                                    </div>
+                                    </div> -->
 
                                     <!--nep-->
 
@@ -2090,59 +2081,59 @@
 
                                         <?php
 
-              //print_r($results);  
+                                        // print_r($results);  
 
-              foreach($results as $key => $records){
+                                        foreach ($results as $key => $records) {
 
-            ?>
+                                        ?>
 
-                                        <div class="col-sm-6">
+                                            <div class="col-sm-6">
 
-                                            <div class="event_tab">
+                                                <div class="event_tab">
 
-                                                <?php
+                                                    <?php
 
-                                if(isset($records['main_image']) && $records['main_image']!=""){
+                                                    if (isset($records['main_image']) && $records['main_image'] != "") {
 
-                                ?>
+                                                    ?>
 
-                                                <img src="<?php echo base_url();?><?php echo isset($records['main_image']) ? '/uploads/cms/programme/'.$records['main_image'] : '/assets/images/activity-event.jpg'; ?>"
+                                                        <img src="<?php echo base_url(); ?><?php echo isset($records['main_image']) ? '/uploads/cms/programme/' . $records['main_image'] : '/assets/images/activity-event.jpg'; ?>"
 
-                                                    alt="<?php echo isset($records['main_image']) ? $records['main_image'] : 'activity-event'; ?>">
+                                                            alt="<?php echo isset($records['main_image']) ? $records['main_image'] : 'activity-event'; ?>">
 
-                                                <?php }?>
+                                                    <?php } ?>
 
-                                                <h4><?php echo isset($records['heading']) ? $records['heading'] : ''; ?>
+                                                    <h4><?php echo isset($records['heading']) ? $records['heading'] : ''; ?>
 
-                                                </h4>
+                                                    </h4>
 
-                                                <?php
+                                                    <?php
 
-                      if(isset($records['descriptions']) && $records['descriptions']!=""){
+                                                    if (isset($records['descriptions']) && $records['descriptions'] != "") {
 
-                    ?>
+                                                    ?>
 
-                                                <p><?php echo isset($records['descriptions']) ? $records['descriptions'] : ''; ?>
+                                                        <p><?php echo isset($records['descriptions']) ? $records['descriptions'] : ''; ?>
 
-                                                </p>
+                                                        </p>
 
-                                                <?php }?>
+                                                    <?php } ?>
 
-                                                <?php
+                                                    <?php
 
-                      if(isset($records['pdf_file']) && $records['pdf_file']!=""){
+                                                    if (isset($records['pdf_file']) && $records['pdf_file'] != "") {
 
-                    ?>
+                                                    ?>
 
-                                                <a href="<?php echo base_url();?>uploads/cms/programme/<?php echo isset($records['pdf_file']) ? $records['pdf_file'] : ''; ?>"
+                                                        <a href="<?php echo base_url(); ?>uploads/cms/programme/<?php echo isset($records['pdf_file']) ? $records['pdf_file'] : ''; ?>"
 
-                                                    target="_blank" class="iqac_link pdf">More Details</a>
+                                                            target="_blank" class="iqac_link pdf">More Details</a>
 
-                                                <?php }?>
+                                                    <?php } ?>
+
+                                                </div>
 
                                             </div>
-
-                                        </div>
 
                                         <?php } ?>
 
