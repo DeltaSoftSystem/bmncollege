@@ -200,7 +200,7 @@
 
                                         Programme name :
 
-                                        <span> Department of Computer Applications (BCA) </span>
+                                        <span>Bachelor of Computer Applications (BCA) - AICTE Approved </span>
 
                                     </div>
 
@@ -219,6 +219,15 @@
                                         <h4 class="course_sb_head"><i class="fa fa-dot-circle-o" aria-hidden="true"></i>
 
                                             Eligibility : </h4>
+                                        <li style="color: red;" class="bca_tile"><i class="fa fa-angle-right" aria-hidden="true"></i>
+
+                                                Students from Science, Commerce & Arts stream should give the MAH-B. BCA
+
+                                                CET Entrance Exam for admission in BCA</li>
+
+                                            <li style="color: red;" class="bca_tile"><i class="fa fa-angle-right" aria-hidden="true"></i>
+
+                                                Non Maths students are also eligible</li>
 
                                         <p class="bca_tile">A candidate for being eligible for admission to the three
 
@@ -234,7 +243,7 @@
 
                                             (from any stream).</p>
 
-                                        <ul class="course_list">
+                                        <!-- <ul class="course_list">
 
                                             <li><i class="fa fa-angle-right" aria-hidden="true"></i>
 
@@ -250,9 +259,9 @@
 
                                             </li>
 
-                                        </ul>
+                                        </ul> -->
 
-                                        <p class="bca_tile">OR</p>
+                                        <!-- <p class="bca_tile">OR</p>
 
                                         <ul class="course_list">
 
@@ -268,7 +277,7 @@
 
                                                 Any three subjects carrying 100 marks each </li>
 
-                                        </ul>
+                                        </ul> -->
 
                                         <p class="bca_tile">OR</p>
 
@@ -280,7 +289,7 @@
 
                                             Board of Secondary and Higher Secondary Education.</p>
 
-                                        <ul class="course_list">
+                                        <!-- <ul class="course_list">
 
                                             <li><i class="fa fa-angle-right" aria-hidden="true"></i>
 
@@ -308,7 +317,7 @@
 
                                                 Certificate examination from time to time. </li>
 
-                                        </ul>
+                                        </ul> -->
 
                                         <p class="bca_tile">OR</p>
 
@@ -370,15 +379,7 @@
 
                                             </li>
 
-                                            <li style="color: red;"><i class="fa fa-angle-right" aria-hidden="true"></i>
-
-                                                Students from Science, Commerce & Arts stream should give the MAH-B. BCA
-
-                                                CET Entrance Exam for admission in BCA</li>
-
-                                            <li style="color: red;"><i class="fa fa-angle-right" aria-hidden="true"></i>
-
-                                                Non Maths students are also eligible</li>
+                                            
 
                                         </ul>
 
