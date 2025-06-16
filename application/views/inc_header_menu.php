@@ -677,6 +677,8 @@ $contactus[] = 'contact-us';
                                                 <li><a href="<?php echo base_url();?>uploads/pdf/AQAR-2021-2022.pdf" target="_blank"><?php echo $this->lang->line("2021-2022");?></a></li>
 
                                                 <li><a href="<?php echo base_url();?>uploads/pdf/AQAR 2022-2023.pdf" target="_blank"><?php echo $this->lang->line("2022-2023");?></a></li>
+                                                
+                                                <li><a href="<?php echo base_url();?>uploads/pdf/AQAR 2023-2024.pdf" target="_blank"><?php echo $this->lang->line("2023-2024");?></a></li>
 
                                             </ul>
 
