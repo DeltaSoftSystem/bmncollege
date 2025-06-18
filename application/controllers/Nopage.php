@@ -404,7 +404,8 @@ class Nopage extends CI_Controller
 
        }
        
-       if($param_page=="committee-activity"){
+    //    if($param_page=="committee-activity"){ 
+       if($param_page=="committee_activity"){ 
         //echo "latest-post";
         $data['controller'] = $this->controller;
         $data['start'] = $start =  (int)$this->uri->segment(2) ; // n=1 for controller, n=2 for method, etc

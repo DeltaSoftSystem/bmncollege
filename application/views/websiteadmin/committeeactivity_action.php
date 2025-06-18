@@ -4,6 +4,7 @@
 <head>
     <script>
     var st_url = "<?php echo site_url()?>/";
+    // console.log("site",st_url)
     </script>
     <?php $this->load->view('websiteadmin/inc_metacss');?>
     <script src="<?php echo base_url() ?>websiteadmin/global_assets/js/demo_pages/form_floating_labels.js"></script>
@@ -108,7 +109,7 @@ if ($error) {
                                     <input type="text" class="form-control alhanumeric1 maxlength-textarea"
                                         maxlength="225" name="heading" id="heading"
                                         value="<?php echo isset($records['heading']) ? $records['heading'] : ''; ?>"
-                                        placeholder="Title">
+                                        placeholder="Title"> 
                                 </div>
                             </div>
                             <div class="form-group row">
