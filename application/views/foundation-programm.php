@@ -162,6 +162,7 @@
     </h2>
 
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+    <!-- <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample"> -->
 
       <div class="accordion-body">
 
@@ -1095,8 +1096,102 @@
 
   </div>                    
 
-</div>
+<!-- idher sai shuru -->
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingFive">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+            <i class="fa fa-link"></i> &nbsp; E Bulletins
+        </button>
+    </h2>
 
+    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+        <div class="accordion-body">
+            <h3 class="detail_title">List of E-Bulletins</h3>
+            
+            <div class="row">
+                <div class="col-sm-3">
+                    <div class="sem_bx">
+                        <a href="<?php echo base_url();?>uploads/bulletin/april21_issue1.pdf" target="_blank">
+                            <i class="fa fa-dot-circle-o" aria-hidden="true"></i> Apr 21-Issue 1
+                        </a>
+                    </div> 
+                </div>
+                <div class="col-sm-3">
+                    <div class="sem_bx">
+                        <a href="<?php echo base_url();?>uploads/bulletin/aug21_issue2.pdf" target="_blank">
+                            <i class="fa fa-dot-circle-o" aria-hidden="true"></i> Aug 21-Issue 2
+                        </a>
+                    </div> 
+                </div>
+                <div class="col-sm-3">
+                    <div class="sem_bx">
+                        <a href="<?php echo base_url();?>uploads/bulletin/sept21_issue3.pdf" target="_blank">
+                            <i class="fa fa-dot-circle-o" aria-hidden="true"></i> Sept 21-Issue 3
+                        </a>
+                    </div> 
+                </div>
+                <div class="col-sm-3">
+                    <div class="sem_bx">
+                        <a href="<?php echo base_url();?>uploads/bulletin/feb22_issue4.pdf" target="_blank">
+                            <i class="fa fa-dot-circle-o" aria-hidden="true"></i> Feb 22-Issue 4
+                        </a>
+                    </div> 
+                </div>
+                <div class="col-sm-3">
+                    <div class="sem_bx">
+                        <a href="<?php echo base_url();?>uploads/bulletin/may22_issue5.pdf" target="_blank">
+                            <i class="fa fa-dot-circle-o" aria-hidden="true"></i> May 22-Issue 5
+                        </a>
+                    </div> 
+                </div>
+                <div class="col-sm-3">
+                    <div class="sem_bx">
+                        <a href="<?php echo base_url();?>uploads/bulletin/sep22_issue6.pdf" target="_blank">
+                            <i class="fa fa-dot-circle-o" aria-hidden="true"></i> Sept 22-Issue 6
+                        </a>
+                    </div> 
+                </div>
+                <div class="col-sm-3">
+                    <div class="sem_bx">
+                        <a href="<?php echo base_url();?>uploads/bulletin/aug23_issue7.pdf" target="_blank">
+                            <i class="fa fa-dot-circle-o" aria-hidden="true"></i> Aug 23-Issue 7
+                        </a>
+                    </div> 
+                </div>
+                <div class="col-sm-3">
+                    <div class="sem_bx">
+                        <a href="<?php echo base_url();?>uploads/bulletin/jan24_issue8.pdf" target="_blank">
+                            <i class="fa fa-dot-circle-o" aria-hidden="true"></i> Jan 24-Issue 8
+                        </a>
+                    </div> 
+                </div>
+                <div class="col-sm-3">
+                    <div class="sem_bx">
+                        <a href="<?php echo base_url();?>uploads/bulletin/mar24_issue9.pdf" target="_blank">
+                            <i class="fa fa-dot-circle-o" aria-hidden="true"></i> Mar 24-Issue 9
+                        </a>
+                    </div> 
+                </div>
+                <div class="col-sm-3">
+                    <div class="sem_bx">
+                        <a href="<?php echo base_url();?>uploads/bulletin/aug24_issue10.pdf" target="_blank">
+                            <i class="fa fa-dot-circle-o" aria-hidden="true"></i> Aug 24-Issue 10
+                        </a>
+                    </div> 
+                </div>
+                <div class="col-sm-3">
+                    <div class="sem_bx">
+                        <a href="<?php echo base_url();?>uploads/bulletin/jan25_issue11.pdf" target="_blank">
+                            <i class="fa fa-dot-circle-o" aria-hidden="true"></i> Jan 25-Issue 11
+                        </a>
+                    </div> 
+                </div>
+            </div>
+
+        </div>
+    </div>                    
+<!-- idher tak bas -->
+</div>
                 
 
                 
