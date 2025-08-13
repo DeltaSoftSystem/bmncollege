@@ -478,6 +478,8 @@ $lang['Grievance Redressal Committee']	=	"Grievance Redressal Committee";
 
 $lang['Committee Activities']	=	"Committee Activities";
 
+$lang['Committee Members']	=	"Committee Members";
+
 
 
 

@@ -252,6 +252,8 @@ $Committees[] = 'grievance-redressal-committee';
 
 $Committees[] = 'committee-activity';
 
+// $Committees[] = 'committee-members';
+
 
 
 
@@ -1014,7 +1016,7 @@ $contactus[] = 'contact-us';
 
                                                 target="_blank"><?php echo $this->lang->line("College Development Committee");?> </a></li>
 
-                                        <li><a href="<?php echo base_url();?>uploads/pdf/INTERNAL COMMITTEE WOMEN’S CELL.pdf"
+                                        <li><a href="<?php echo base_url();?>uploads/pdf/Women's Cell 2025-26.pdf"
 
                                                 target="_blank"><?php echo $this->lang->line("Internal Committee / Women’s Cell");?></a></li>
 
@@ -1087,6 +1089,9 @@ $contactus[] = 'contact-us';
                                         </li>
 
                                         <li><a href="committee-activity"><?php echo $this->lang->line("Committee Activities");?></a></li>
+
+                                        <!-- <li><a href="committee-members"><?php echo $this->lang->line("Committee Members");?></a></li> -->
+                                        <li><a href="<?php echo base_url();?>uploads/pdf/Committees and Incharges for academic years 2024-2027.pdf" target="_blank" > <?php echo $this->lang->line("Committee Members");?> </a></li>
 
                                     </ul>
 
