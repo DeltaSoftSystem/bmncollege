@@ -2035,6 +2035,38 @@
 
                                         </div>
 
+                                        <div class="col-sm-3">
+
+                                            <div class="sem_bx">
+
+                                                <a href="<?php echo base_url();?>uploads/pdf/BCA Syllabus - SEM IV under NEP 2024-25.pdf"
+
+                                                    target="_blank">
+
+                                                    <i class="fa fa-dot-circle-o" aria-hidden="true"></i> Semester IV
+
+                                                </a>
+
+                                            </div>
+
+                                        </div>
+
+                                        <div class="col-sm-3">
+
+                                            <div class="sem_bx">
+
+                                                <a href="<?php echo base_url();?>uploads/pdf/BCA Syllabus Sem V under NEP.pdf"
+
+                                                    target="_blank">
+
+                                                    <i class="fa fa-dot-circle-o" aria-hidden="true"></i> Semester V
+
+                                                </a>
+
+                                            </div>
+
+                                        </div>
+
                                     </div>
 
                                     <!--nep-->

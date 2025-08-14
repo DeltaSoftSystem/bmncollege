@@ -1855,11 +1855,11 @@
 
                                             <div class="sem_bx">
 
-                                                <a href="<?php echo base_url(); ?>uploads/pdf/Proposed-Syllabus-of-BSc-IT-(2025-26).pdf"
+                                                <a href="<?php echo base_url(); ?>uploads/pdf/BSCIT Syllabus Sem I under NEP.pdf"
 
                                                     target="_blank">
 
-                                                    <i class="fa fa-dot-circle-o" aria-hidden="true"></i> Proposed Syllabus
+                                                    <i class="fa fa-dot-circle-o" aria-hidden="true"></i> Semester I
 
                                                 </a>
 

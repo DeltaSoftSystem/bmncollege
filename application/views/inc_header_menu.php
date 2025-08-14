@@ -940,9 +940,9 @@ $contactus[] = 'contact-us';
 
                                                         target="_blank">2023-2024</a></li>        
 
-                                                <!-- <li><a href="<?php echo base_url();?>uploads/pdf/BMN bulletin for magazine.pdf"
+                                                <!-- <li><a href="<?php echo base_url();?>uploads/pdf/Magazine 2024-2025 .pdf"
 
-                                                        target="_blank">2023-24</a></li>         -->
+                                                        target="_blank">2024-2025</a></li>         -->
 
                                             </ul>
 
@@ -1111,9 +1111,9 @@ $contactus[] = 'contact-us';
 
                                                 <li><a href="<?php echo base_url();?>uploads/pdf/Minutes of anti ragging commitee 14th October 2023.pdf" target="_blank"   >Oct 2023</a></li>
 
-                                                <li><a href="<?php echo base_url();?>uploads/pdf/Minutes of anti ragging commitee 30th march 2024.pdf"
+                                                <li><a href="<?php echo base_url();?>uploads/pdf/Minutes of anti ragging commitee 30th march 2024.pdf"   target="_blank">March 2024</a></li>
 
-                                            target="_blank">March 2024</a></li>
+                                                <li><a href="<?php echo base_url();?>uploads/pdf/Minutes of anti ragging commitee  26th October 2024.pdf"   target="_blank">Oct 2024</a></li>
 
                                                          
 
