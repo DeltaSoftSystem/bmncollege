@@ -488,6 +488,8 @@ $lang['Composition of IQAC']	=	"Composition of IQAC";
 
 $lang['2021-2024']	=	"2021-2024";
 
+$lang['2025-2027']	=	"2025-2027";
+
 $lang['Minutes of IQAC Meeting']	=	"Minutes of IQAC Meeting";
 
 $lang['Best Practice']	=	"Best Practice";

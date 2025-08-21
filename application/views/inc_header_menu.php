@@ -606,6 +606,10 @@ $contactus[] = 'contact-us';
 
                                                         target="_blank"><?php echo $this->lang->line("2021-2024");?></a></li>
 
+                                                <li><a href="<?php echo base_url();?>uploads/pdf/Composition of IQAC 2025-27.docx.pdf"
+
+                                                        target="_blank"><?php echo $this->lang->line("2025-2027");?></a></li>
+
                                             </ul>
 
                                         </li>
@@ -1069,6 +1073,7 @@ $contactus[] = 'contact-us';
                                                 <ul class="dropdown">
 
                                                     <li><a href="<?php echo base_url();?>uploads/pdf/Minutes of meeting grievance redressal 30th March 2024.docx" target="_blank"   >March 2024</a></li>
+                                                    <li><a href="<?php echo base_url();?>uploads/pdf/Minutes of meeting grievance redressal 25th October 2024 (1).pdf" target="_blank"   >October 2024</a></li>
 
                                                 </li>
 
