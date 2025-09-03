@@ -944,9 +944,9 @@ $contactus[] = 'contact-us';
 
                                                         target="_blank">2023-2024</a></li>        
 
-                                                <!-- <li><a href="<?php echo base_url();?>uploads/pdf/Magazine 2024-2025 .pdf"
+                                                <li><a href="<?php echo base_url();?>uploads/pdf/Magazine 2024-2025 for printing.pdf"
 
-                                                        target="_blank">2024-2025</a></li>         -->
+                                                        target="_blank">2024-2025</a></li>        
 
                                             </ul>
 

@@ -134,7 +134,7 @@ if(isset($home['academicCalendar']) && is_array($home['academicCalendar'])){
                                     <li><a href="<?php echo base_url();?>uploads/pdf/ACADEMIC CALENDAR  (JUNE 2022 - JUNE 2023).pdf" target="_blank"><?php echo $this->lang->line("2022-2023");?> </a></li>
                                     <li><a href="<?php echo base_url();?>uploads/pdf/ACADEMIC CALENDAR  (June 2023 - May 2024).pptx" target="_blank"><?php echo $this->lang->line("2023-2024");?> </a></li>
                                     <li><a href="<?php echo base_url();?>uploads/pdf/ACADEMIC CALENDAR  (JUNE 2024 - MAY2025).pptx.pdf" target="_blank">2024-2025</a></li>
-                                    <li><a href="<?php echo base_url();?>uploads/pdf/2025 - 2026 ACADEMIC CALENDAR  (JUNE 2025 - MAY 2026).pptx.pdf" target="_blank">2025-2026</a></li>
+                                    <li><a href="<?php echo base_url();?>uploads/pdf/2025 - 2026 ACADEMIC CALENDAR  (JUNE 2025 - MAY 2026).pptx (1).pdf" target="_blank">2025-2026</a></li>
                                 </ul>
                             </li>
  <li class="mobile_menu_on sub"><a href="<?php echo base_url();?>uploads/pdf/2020 - 2021 ACADEMIC CALENDAR.pdf" target="_blank"><i class="fa fa-angle-right"
