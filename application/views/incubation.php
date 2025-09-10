@@ -72,7 +72,7 @@
 
                     <!--event-slider-->
 
-                    <div class="venture_table">
+                    <!-- <div class="venture_table">
 
                         <h2 class="research_title bca">Upcoming Events </h2>
 
@@ -110,7 +110,7 @@
 
 
 
-                    </div>
+                    </div> -->
 
 
 
@@ -184,7 +184,8 @@
 
                     <div class="venture_table">
 
-                        <h2 class="research_title bca">Ventures </h2>
+                        <!-- <h2 class="research_title bca">Ventures </h2> -->
+                        <h2 class="research_title bca">Events Organised </h2>
 
                         <div class="tableFixHead">
 
