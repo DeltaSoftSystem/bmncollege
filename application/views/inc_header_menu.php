@@ -1302,9 +1302,11 @@ $contactus[] = 'contact-us';
 
             </div>
 
-        </div>
 
+        </div>
+        
     </div>
+    <marquee behavior="scroll" direction="left" class="bg-danger text-light"><a href="https://chat.whatsapp.com/B8SdheUOW2L9TfvZHPSvCc?mode=ems_copy_t"  class="bg-danger text-light">BCA Admission 2025 Open! Contact now for direct admission in Institutional round: 9867997415/ 9833446913. Join WhatsApp grp for further information. &nbsp; 📞</a></marquee>
 
 
 
