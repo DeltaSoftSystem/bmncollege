@@ -17,6 +17,25 @@
     font-family: 'Roboto-Regular';
 }
     </style>
+    <style>
+        .carousel-control-prev, .carousel-control-next {
+            height: 100px;
+            width: 50px;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            z-index: 10;
+            color: white; /* Ensures button text is visible */
+            background-color: rgba(0, 0, 0, 0.5); /* Optional: Semi-transparent background */
+            padding: 10px;
+            /* border-radius: 50%; Circular buttons */
+        }
+
+        .carousel-control-prev-icon, .carousel-control-next-icon {
+            background-color: white; /* White icons */
+            border-radius: 50%; /* Make the icon background round */
+        }
+    </style>
 </head>
 
 <body>
@@ -185,7 +204,83 @@ if(isset($home['downloadhome']) && is_array($home['downloadhome'])){
 
 
 
-                        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2000">
+                            <div class="carousel-inner">
+                                <!-- First Image -->
+                                <div class="carousel-item active" style="text-align: center;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/mainimage.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                </div>
+                                
+                                <!-- First Image -->
+                                <div class="carousel-item" style="text-align: center;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/1.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                </div>
+
+                                <!-- Second Image -->
+                                <div class="carousel-item" style="text-align: center;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/2.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                </div>
+
+                                <!-- Third Image -->
+                                <div class="carousel-item" style="text-align: center;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/3.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                </div>
+                                
+                                <!-- Forth Image -->
+                                <div class="carousel-item" style="text-align: center;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/4.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                </div>
+                                
+                                <!-- Fifth Image -->
+                                <div class="carousel-item" style="text-align: center;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/5.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                </div>
+                                
+                                <!-- Sixth Image -->
+                                <div class="carousel-item" style="text-align: center;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/6.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                </div>
+                                
+                                <!-- Seventh Image -->
+                                <div class="carousel-item" style="text-align: center;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/7.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                </div>
+                                
+                                <!-- Eighth Image -->
+                                <div class="carousel-item" style="text-align: center;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/8.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                </div>
+                                
+                                <!-- Ninth Image -->
+                                <div class="carousel-item" style="text-align: center;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/9.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                </div>
+                                
+                                <!-- Tenth Image -->
+                                <div class="carousel-item" style="text-align: center;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/10.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                </div>
+                                
+                                
+                                <!-- Add more images as needed... -->
+                            </div>
+
+                            <!-- Previous Button -->
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden"><?php echo $this->lang->line("Previous");?></span>
+                                </button>
+
+                                <!-- Next Button -->
+                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden"><?php echo $this->lang->line("Next");?></span>
+                                </button>
+                        </div>
+
+
+
+                        <!-- <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active" style="text-align: center;">
                                     <img src="<?php echo base_url();?>assets/images/slide_pic_2.jpg" alt=""
@@ -194,8 +289,6 @@ if(isset($home['downloadhome']) && is_array($home['downloadhome'])){
                                         <div class="caption_cont">
                                             <h3 class="caption_title">An investment in all aspects of Women’s <br>
                                                 education is an investment in their future.</h3>
-                                            <!--<p class="caption_txt">Thousands of students are already studying BMN University for all ages!</p>-->
-                                            <!--<p class="caption_txt">Thousands of students are already studying BMN University for all ages!</p>-->
                                         </div>
                                     </div>
                                 </div>
@@ -211,7 +304,11 @@ if(isset($home['downloadhome']) && is_array($home['downloadhome'])){
                                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                 <span class="visually-hidden"><?php echo $this->lang->line("Next");?></span>
                             </button>
-                        </div>
+                        </div> -->
+
+
+
+
                     </div>
                 </div>
             </div>
