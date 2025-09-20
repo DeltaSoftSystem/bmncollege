@@ -261,6 +261,16 @@ if(isset($home['downloadhome']) && is_array($home['downloadhome'])){
                                     <img src="<?php echo base_url();?>assets/images/homepagecarosel/10.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
                                 </div>
                                 
+                                <!-- Eleventh Image -->
+                                <div class="carousel-item" style="text-align: center;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/11.jpeg" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                </div>
+
+                                <!-- twelth Image -->
+                                <div class="carousel-item" style="text-align: center;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/12.jpeg" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                </div>
+                                
                                 
                                 <!-- Add more images as needed... -->
                             </div>
