@@ -261,14 +261,34 @@ if(isset($home['downloadhome']) && is_array($home['downloadhome'])){
                                     <img src="<?php echo base_url();?>assets/images/homepagecarosel/10.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
                                 </div>
                                 
-                                <!-- Eleventh Image -->
+                                <!-- eleventh Image -->
                                 <div class="carousel-item" style="text-align: center;">
-                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/11.jpeg" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/11.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                </div>
+                                
+                                <!-- twelve Image -->
+                                <div class="carousel-item" style="text-align: center;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/12.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                </div>
+                                
+                                <!-- thirteen Image -->
+                                <div class="carousel-item" style="text-align: center;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/13.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
                                 </div>
 
-                                <!-- twelth Image -->
+                                <!-- fourteen Image -->
                                 <div class="carousel-item" style="text-align: center;">
-                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/12.jpeg" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/14.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                </div>
+                                
+                                <!-- fifteen Image -->
+                                <div class="carousel-item" style="text-align: center;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/15.jpeg" alt="" style="width: 100%;height: 600px;object-fit: contains;">
+                                </div>
+
+                                <!-- sixteen Image -->
+                                <div class="carousel-item" style="text-align: center;">
+                                    <img src="<?php echo base_url();?>assets/images/homepagecarosel/16.jpeg" alt="" style="width: 100%;height: 600px;object-fit: contains;">
                                 </div>
                                 
                                 
