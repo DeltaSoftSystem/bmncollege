@@ -210,6 +210,13 @@ if(isset($home['downloadhome']) && is_array($home['downloadhome'])){
                                     <li><a href="<?php echo base_url();?>uploads/pdf/3_SOP_Desk (University_College) Logins (1).pdf" target="_blank">Institute Login</a></li>
                                 </ul>
                             </li>
+
+                            <li class="mobile_menu_on"><a href="<?php echo base_url();?>uploads/pdf/1_SOP_New User registration (Student Purp_RTS (1).pdf" target="_blank"><i class="fa fa-angle-right"
+                                        aria-hidden="true"></i> Registration </a></li>
+                            <li class="mobile_menu_on"><a href="<?php echo base_url();?>uploads/pdf/2_SOP_ Service apply_ Students.pdf" target="_blank"><i
+                                        class="fa fa-angle-right" aria-hidden="true"></i> Services</a></li>
+                            <li class="mobile_menu_on"><a href="<?php echo base_url();?>uploads/pdf/3_SOP_Desk (University_College) Logins (1).pdf" target="_blank"><i
+                                        class="fa fa-angle-right" aria-hidden="true"></i> Institute Login</a></li>
                         </ul>
                     </div>
 
