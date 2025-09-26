@@ -191,6 +191,25 @@ if(isset($home['downloadhome']) && is_array($home['downloadhome'])){
 } 
 ?>                            
                             <li><a href="<?php echo base_url();?>uploads/cms/<?php echo $downloadhome?>" target="_blank"><i class="fa fa-download" aria-hidden="true"></i> <?php echo $this->lang->line("Downloads");?></a></li>
+                            <!-- <li>
+                                <a href="#">
+                                    <i class="fa fa-desktop" aria-hidden="true"></i> 
+                                        Aaple Sarkar Portal
+                                    <span><i class="fa fa-angle-right" aria-hidden="true"></i></span>
+                                    <ul>
+                                        <li><a href="e-content">Hello World </a></li>
+                                        <li><a href="https://swayam.gov.in/" target="_blank">hmmm</a></li>
+                                    </ul>
+                                </a>
+                            </li> -->
+                            <li><a href="#"><i class="fa fa-desktop" aria-hidden="true"></i> Aaple Sarkar Portal
+                                    <span><i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+                                <ul>
+                                    <li><a href="<?php echo base_url();?>uploads/pdf/1_SOP_New User registration (Student Purp_RTS (1).pdf" target="_blank">Registration </a></li>
+                                    <li><a href="<?php echo base_url();?>uploads/pdf/2_SOP_ Service apply_ Students.pdf" target="_blank">Services</a></li>
+                                    <li><a href="<?php echo base_url();?>uploads/pdf/3_SOP_Desk (University_College) Logins (1).pdf" target="_blank">Institute Login</a></li>
+                                </ul>
+                            </li>
                         </ul>
                     </div>
 
