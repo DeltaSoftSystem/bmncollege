@@ -579,7 +579,7 @@ class Nopage extends CI_Controller
         if ($query->num_rows() > 0) {
             $resultdata = $query->result_array();
         }
-        $data['results'] = $resultdata;
+        $data['results'] = $resultdata; 
 
         $resultdata = array();
         $sql = "select * from wti_m_gallery b where  gallery_type='recruiters' and  b.delete_status=0 and status_flag=1 order by  b.slider_id  desc " . $limit_qry;

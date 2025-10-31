@@ -12,7 +12,7 @@ $page_url = $this->uri->segment(1);
 
 
 <!-- New Model popup - temporary -->
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<!-- <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog page_load">
         <div class="modal-content">
             <div class="pop_title">
@@ -20,13 +20,13 @@ $page_url = $this->uri->segment(1);
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body pop_frm">
-                <img data-bs-target="#exampleModalToggle2" data-bs-toggle="modal" data-bs-dismiss="modal" src="<?php echo base_url(); ?>assets/images/bca_admission_flyer.jpg" alt="admission flyer">
+                <img data-bs-target="#exampleModalToggle2" data-bs-toggle="modal" data-bs-dismiss="modal" src="<?php echo base_url(); ?>assets/images/Institute merit list 2025.png" alt="admission flyer">
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
-<div class="modal fade" id="exampleModalToggle2" tabindex="-1" aria-labelledby="exampleModalToggleLabel2" aria-hidden="true">
+<!-- <div class="modal fade" id="exampleModal " tabindex="-1" aria-labelledby="exampleModalToggleLabel2" aria-hidden="true">
     <div class="modal-dialog page_load">
         <div class="modal-content">
             <div class="pop_title">
@@ -116,10 +116,10 @@ $page_url = $this->uri->segment(1);
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <!--Previous Modal popup -->
-<!-- <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog page_load">
         <div class="modal-content">
             <div class="pop_title">
@@ -212,7 +212,7 @@ $page_url = $this->uri->segment(1);
 
         </div>
     </div>
-</div> -->
+</div>
 <!-- End Modal popup -->
 
 <!--menuzord -->
@@ -652,15 +652,31 @@ $page_url = $this->uri->segment(1);
     });
 
     /*---exampleModal Popup---*/
-    <?php
-    if (($page_url == "" || $page_url == "home") &&  isset($popupdata['config_hellobar_show']) && $popupdata['config_hellobar_show'] == 1) {
-    ?>
+    //  <?php if (($page_url == "" || $page_url == "home") && isset($popupdata['config_hellobar_show']) && $popupdata['config_hellobar_show'] == 1): ?>
+    //     setTimeout(function() {
+    //         $('#exampleModal').modal('show');
+    //     }, 500);
+    // <?php endif; ?>
+
+    document.addEventListener("DOMContentLoaded", function() {
+    // Get current page path (example: "/home" or "/")
+    let path = window.location.pathname;
+        console.log("Current path:", path);
+    // Optional: you can also use a flag from HTML data attribute
+    // let showModal = document.body.dataset.showModal;
+
+    // Check if we are on home page
+    if (path === "/bmncollege/index.php" || path === "/bmncollege/") {
+    // if (path === "/home" || path === "/") {   ---this working on live 
+        // Delay showing modal by 500ms
         setTimeout(function() {
-
-
-            $('#exampleModal').modal('show');
-
-
+            // Make sure jQuery and Bootstrap modal are loaded
+            if (typeof $ !== "undefined" && typeof $.fn.modal !== "undefined") {
+                $('#exampleModal').modal('show');
+            } else {
+                console.error("jQuery or Bootstrap modal not loaded!");
+            }
         }, 500);
-    <?php } ?>
+    }
+});
 </script>

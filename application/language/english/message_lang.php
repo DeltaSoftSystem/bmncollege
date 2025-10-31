@@ -24,7 +24,7 @@ $lang['To impart transformational &amp; accessible education that intellectually
 
 $lang['Objectives'] = 'Objectives';
 
-$lang['To foster a healthy learning environment.'] = 'To foster a healthy learning environment.';
+$lang['To foster a healthy learning environment.'] = 'To foster a healthy learning environment.'; 
 
 $lang['To make teaching and research relevant to societal needs.'] = 'To make teaching and research relevant to societal needs.';
 

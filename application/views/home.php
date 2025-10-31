@@ -233,12 +233,12 @@ if(isset($home['downloadhome']) && is_array($home['downloadhome'])){
                         <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2000">
                             <div class="carousel-inner">
                                 <!-- First Image -->
-                                <div class="carousel-item active" style="text-align: center;">
+                                <!-- <div class="carousel-item active" style="text-align: center;">
                                     <img src="<?php echo base_url();?>assets/images/homepagecarosel/mainimage.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
-                                </div>
+                                </div> -->
                                 
                                 <!-- First Image -->
-                                <div class="carousel-item" style="text-align: center;">
+                                <div class="carousel-item active" style="text-align: center;">
                                     <img src="<?php echo base_url();?>assets/images/homepagecarosel/1.png" alt="" style="width: 100%;height: 600px;object-fit: contains;">
                                 </div>
 
@@ -308,14 +308,14 @@ if(isset($home['downloadhome']) && is_array($home['downloadhome'])){
                                 </div>
                                 
                                 <!-- fifteen Image -->
-                                <div class="carousel-item" style="text-align: center;">
+                                 <div class="carousel-item" style="text-align: center;">
                                     <img src="<?php echo base_url();?>assets/images/homepagecarosel/15.jpeg" alt="" style="width: 100%;height: 600px;object-fit: contains;">
                                 </div>
 
                                 <!-- sixteen Image -->
                                 <div class="carousel-item" style="text-align: center;">
                                     <img src="<?php echo base_url();?>assets/images/homepagecarosel/16.jpeg" alt="" style="width: 100%;height: 600px;object-fit: contains;">
-                                </div>
+                                </div>  
                                 
                                 
                                 <!-- Add more images as needed... -->
@@ -324,7 +324,7 @@ if(isset($home['downloadhome']) && is_array($home['downloadhome'])){
                             <!-- Previous Button -->
                                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                    <span class="visually-hidden"><?php echo $this->lang->line("Previous");?></span>
+                                    <span class="visually-hidden"><?php echo $this->lang->line("Previous");?></span> 
                                 </button>
 
                                 <!-- Next Button -->

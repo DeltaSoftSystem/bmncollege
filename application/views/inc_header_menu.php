@@ -1107,7 +1107,6 @@ $contactus[] = 'contact-us';
                                     <ul class="dropdown">
 
                                         <li><a href="#"   >Minutes</a>
-
                                             <ul class="dropdown">
 
                                                 <li><a href="<?php echo base_url();?>uploads/pdf/Minutes of anti ragging commitee 15th October 2022.pdf" target="_blank"   >Oct 2022</a></li>
@@ -1120,11 +1119,15 @@ $contactus[] = 'contact-us';
 
                                                 <li><a href="<?php echo base_url();?>uploads/pdf/Minutes of anti ragging commitee  26th October 2024.pdf"   target="_blank">Oct 2024</a></li>
 
-                                                         
+                                                <li><a href="<?php echo base_url();?>uploads/pdf/Minutes of anti ragging commitee  28th March 2025.pdf"   target="_blank">March 2025</a></li>
 
+
+                                                         
                                             </ul>
 
                                         </li>
+
+                                        <li><a href="<?php echo base_url();?>uploads/pdf/Anti-ragging Awareness activities of 2025-26.pdf" target="_blank">Activities  </a></li>
 
                                         
 
@@ -1306,7 +1309,7 @@ $contactus[] = 'contact-us';
         </div>
         
     </div>
-    <marquee behavior="scroll" direction="left" class="bg-danger text-light"><a href="https://chat.whatsapp.com/B8SdheUOW2L9TfvZHPSvCc?mode=ems_copy_t"  class="bg-danger text-light">BCA Admission 2025 Open! Contact now for direct admission in Institutional round: 9867997415/ 9833446913. Join WhatsApp grp for further information. &nbsp; 📞</a></marquee>
+    <!-- <marquee behavior="scroll" direction="left" class="bg-danger text-light"><a href="https://chat.whatsapp.com/B8SdheUOW2L9TfvZHPSvCc?mode=ems_copy_t"  class="bg-danger text-light">BCA Admission 2025 Open! Contact now for direct admission in Institutional round: 9867997415/ 9833446913. Join WhatsApp grp for further information. &nbsp; 📞</a></marquee> -->
 
 
 
