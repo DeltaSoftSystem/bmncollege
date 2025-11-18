@@ -66,21 +66,21 @@
 
               //print_r($results);  
 
-              foreach($results as $key => $records){
+           //   foreach($results as $key => $records){
 
             ?>
 
-                    <div>
+                    <!-- <div>
 
-                        <!--7-->
+                        
 
                         <div class="col-sm-12">
 
                             <div class="alumnae_hover">
 
-                                <img src="<?php echo base_url();?>/uploads/gallery/<?php echo $records['slider_image']?>"
+                                <img src="<?php // echo base_url();?>/uploads/gallery/<?php // echo $records['slider_image']?>"
 
-                                    alt="<?php echo $records['slider_text']?>">
+                                    alt="<?php //echo $records['slider_text']?>">
 
                             </div>
 
@@ -88,7 +88,7 @@
 
                             <h3 class="pic_title placement">
 
-                                <?php echo $records['slider_text']?> <span><?php echo $records['post_name']?> </span>
+                                <?php // echo $records['slider_text']?> <span><?php //echo $records['post_name']?> </span>
 
                             </h3>
 
@@ -96,10 +96,371 @@
 
                         </div>
 
+                    </div> -->
+
+                    <?php //} ?>
+
+                    <!-- Manually adding students through hard coding  -->
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image01.png"
+                                    alt="Unnati Sushil Sawant">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Unnati Sushil Sawant <span> Associate Analyst, Deloitte, 3.25 Lakhs </span>
+                            </h3>
+                        </div>
+
+                    </div>  
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image02.png"
+                                    alt="Kimaya Bhushan Patil">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Kimaya Bhushan Patil <span> Associate Analyst, Deloitte, 3.25 Lakhs </span>
+                            </h3>
+                        </div>
+
                     </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image03.png"
+                                    alt="Krupa Amol Patekar">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Krupa Amol Patekar <span> IT Executive, Bandhan AMC, 5 LPA </span>
+                            </h3>
+                        </div>
 
-                    <?php } ?>
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image04.png"
+                                    alt="Payal Anant More">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Payal Anant More  <span> Graduate Trainee, TCS, 2 LPA </span>
+                            </h3>
+                        </div>
 
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image05.png"
+                                    alt="Sakshi Dighe">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Sakshi Dighe <span> Scholar Trainee, Wipro, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image06.png"
+                                    alt="Rahi Mastekar">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Rahi Mastekar <span> Analyst Trainee, Deloitte, 3.25 Lakhs </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image07.png"
+                                    alt="Vidya Gavali">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Vidya Gavali <span> Scholar Trainee, Wipro, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image08.png"
+                                    alt="Komal Ghadi">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Komal Ghadi <span> Garduate Trainee, TCS, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image09.png"
+                                    alt="Siddhi Shinde">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Siddhi Shinde  <span> Scholar Trainee, Wipro, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image10.png"
+                                    alt="Kimaya Gharat">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Kimaya Gharat <span> IT Executive , Bandhan AMC , 5 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image11.png"
+                                    alt="Tejaswini Jadhav ">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Tejaswini Jadhav  <span> Scholar Trainee, Wipro, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image12.png"
+                                    alt="Hindavi Chaudhari">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Hindavi Chaudhari <span> Graduate Trainee, TCS, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image13.png"
+                                    alt="Aiman Ansari">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Aiman Ansari <span> Graduate Trainee, TCS, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image14.png"
+                                    alt="Sakshi Gupta">
+                            </div>
+                           <h3 class="pic_title placement">
+                               Sakshi GUpta <span> Scholar Trainee, Wipro, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image15.png"
+                                    alt="Arpita Chheda">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Arpita Chheda <span> Graduate Trainee, TCS, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image16.png"
+                                    alt="Jill Gada">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Jill Gada  <span> Graduate Trainee, TCS, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image17.png"
+                                    alt="Amruta Kamble">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Amruta Kamble  <span> Graduate Trainee, TCS, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image18.png"
+                                    alt="Anoushka Sengupta ">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Anoushka Sengupta  <span> Graduate Trainee, TCS, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image19.png"
+                                    alt="Paranya Bhoi">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Paranya Bhoi <span> Graduate trainee, TCS, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image20.png"
+                                    alt="Yukta Hande">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Yukta Hande <span> Graduate Trainee, TCS, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image21.png"
+                                    alt="Riya Bhurki">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Riya Bhurki <span> Graduate Trainee, TCS, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image22.png"
+                                    alt="Zainab Ansari">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Zainab Ansari  <span> Graduate Trainee, TCS, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image23.png"
+                                    alt="Iffat Attar">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Iffat Attar <span> Graduate Trainee, TCS, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image24.png"
+                                    alt="Pallavi Bora">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Pallavi Bora <span> Graduate Trainee, TCS, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image25.png"
+                                    alt="Aanchal Patil">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Aanchal Patil  <span> Graduate Trainee, TCS, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image26.png"
+                                    alt="Saee Shinde">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Saee Shinde <span> Graduate trainee, TCS, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image27.png"
+                                    alt="Rhea Chetiwal">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Rhea Chetiwal <span> Scholar Trainee, Wipro, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image28.png"
+                                    alt="Prabha Jha">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Prabha Jha <span> Scholar Trainee, Wipro, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image29.png"
+                                    alt="Sakshi Theek">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Sakshi Theek <span> Wipro, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
+                     <div>
+                        <div class="col-sm-12">
+                            <div class="alumnae_hover">
+                                <img src="<?php  echo base_url();?>/uploads/gallery/placement_image_2025_image30.png"
+                                    alt="Sania Bhogal">
+                            </div>
+                            <h3 class="pic_title placement">
+                               Sania Bhogal  <span> Scholar Trainee, Wipro, 2 LPA </span>
+                            </h3>
+                        </div>
+
+                    </div>
                 </section>
 
             </div>

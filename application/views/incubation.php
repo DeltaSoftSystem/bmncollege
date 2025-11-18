@@ -257,6 +257,7 @@
 
                             </table> -->
 
+                            <!-- <h2 class="research_title bca">Events Organised </h2> -->
                             <table style="width: 1130.05px;">
                                 <tbody>
                                     <tr>
@@ -274,10 +275,52 @@
                                     </tr>
                                     <tr>
                                         <td style="width: 95px;">
+                                            <p>19.06.2024</p>
+                                        </td>
+                                        <td style="width: 918.047px;">
+                                            <p>A student placement committee was formed for this academic year. Following are the names of the students:</p>
+                                            <h5>SYBCA 1</h5>
+                                            <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	1. Dhruvi Panchal</p>
+                                            <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2. Sanskruti Bhor</p>
+                                            <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	3. Dhruvi Panchal</p>
+                                            <br>
+                                            <h5>SYBCA 2</h5>
+                                            <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	1. Gayathri Kumar</p>
+                                            <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2. Ariba Khan</p>
+                                            <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	3. Saara Bhosale</p>
+
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 95px;">
+                                            <p>29.06.2024</p>
+                                        </td>
+                                        <td style="width: 918.047px;">
+                                            <p>A guest lecture on “Corporate Etiquettes for Career Beginners” was organized for TYBCA and SYMSC CS students. The speaker was Mr.  Srinivas Rao Katkoor Regional Director - Human Resources, South Asia, SAS India. 101 TYBCA students and 4 SYMSc CS students attended the session.</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 95px;">
+                                            <p>18.06.2024 & 19.06.2024 </p>
+                                        </td>
+                                        <td style="width: 918.047px;">
+                                            Conducted Internship viva for SYBCA and TYBCA students. 9 SYBCA & 20 TYBCA students appeared for the viva.
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 95px;">
+                                            <p>23.07.2024</p>
+                                        </td>
+                                        <td style="width: 918.047px;">
+                                            A guest lecture on the topic “Leveraging LinkedIn” was organized for SYBCA and SYMSC CS students. The speaker was Mr. Sanjeev Jain, Chief Information Officer, Integreon Managed Solutions, India. 95 students attended the session
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 95px;">
                                             <p>27.07.2024</p>
                                         </td>
                                         <td style="width: 918.047px;">
-                                            <p>Conducted the Orientation of EECH for TYBCA students.</p>
+                                           <p>Conducted the Orientation of EECH for TYBCA students. </p>
                                         </td>
                                     </tr>
                                     <tr>
@@ -290,95 +333,207 @@
                                     </tr>
                                     <tr>
                                         <td style="width: 95px;">
-                                            <p>21.08.2024</p>
+                                            <p>10.08.2024</p>
                                         </td>
                                         <td style="width: 918.047px;">
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A guest lecture on " Understanding Entrepreneurship" was organized for sybca and tybca students.</p>
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Total 71 from Sybca and 90 from Tybca attended the lecture</p>
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The resource person was Mr. Gaurang Shetty, chief Innovation Catalyst, riidl, Somaiya Vidyavihar, Mumbai.</p>
+                                            <p>Successfully completed the State level aptitude test conducted by MaTPO (Maharashtra Training and Placement Officer Association) on 10th August, 2024. 118 students from SYBCA and 131 students from TYBCA gave the test successfully. </p>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td style="width: 95px;">
-                                            <p>03.12.2024</p>
+                                            <p>17.08.2024</p>
+                                        
                                         </td>
                                         <td style="width: 918.047px;">
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A guest lecture on " Business Proposal Making" was organized for sybca and tybca students.</p>
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Total 37 students from Sybca and Tybca attended the lecture</p>
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The resource person was Mr. Shailesh B. Sargade, Assistant Professor, Mumbai Educational Trust, Bandra.</p>
-                                            <p>&nbsp;</p>
+                                            <p>Notice regarding the initiation of the Robotics club circulated among students.</p>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td style="width: 95px;">
-                                            <p>17.12.2024</p>
+                                            <p>30.08.2024</p>
                                         </td>
                                         <td style="width: 918.047px;">
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A workshop on IDEATION was organized for BCA students under EECH on 17th December, 2024.</p>
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A total of 23 students participated in the workshop.</p>
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The resource person was Mr.Shreenivas Ransubhe, Ux Design Leadership Consultant, Mumbai.</p>
+                                            <p>Ms. Neetu Singhi attended the Training and Placement Officers meeting organised by USDC Global. <br>
+                                            Points discussed during the meeting were: </p>
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaboration with foreign universities, faculty and student exchange programs </p>
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Problems faced by students studying or working abroad.</p>
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How to network and add new companies in the employers list </p>
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Addressed the problems faced by TPOs in collaborating with the industries</p>
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How to avail LinkedIN to network with other companies </p>
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make alumnae engagement more intense. </p>
+                                            <p>The meeting started at 3.30 pm and got over at 8 pm followed by dinner.</p>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td style="width: 95px;">
-                                            <p>26.01.2025</p>
+                                            <p>23.09.2024</p>
                                         </td>
                                         <td style="width: 918.047px;">
-                                            <p>A MoU was signed between Research Innovation Incubation</p>
-                                            <p>Design Laboratory Foundation, Somaiya Vidyavihar Mr Gaurang Shetty, Chief Innovation Catalyst and Prof. Mala Pandurang Principal, Dr. Bhanuben Mahendra Nanavati College of Home Science (Autonomous) under EECH Committee for</p>
-                                            <p>Startup Incubation and Mentorship</p>
-                                            <p>● The Second Party will offer guidance to scale and validate student</p>
-                                            <p>business ideas.</p>
-                                            <p>● Students will have access to riidl&rsquo;s infrastructure, mentorship and</p>
-                                            <p>training programs.</p>
-                                            <p>● Provide certification for training programs upon successful</p>
-                                            <p>completion.</p>
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	Ms. Neetu Singhi attended the meeting for the orientation on Campus Connect Program on 23rd September 2024 at 2:00 pm. The meeting was online and was organised by AICTE.</p>
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    The agenda of the meeting was to Introduce the Campus Connect Program, Understand the importance of internships in Students' career development, Q&A and collaborative planning sessions.</p>
+                                            <p>● &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   The key takeaway of this meeting was to provide an opportunity for all the attendees to share insights, address challenges and contribute to a standardized approach to internships.</p>
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td style="width: 95px;">
+                                        <td style="width: 94px;">
+                                            <p>22.11.2024</p>
+                                        </td>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms. Neetu Singhi attended Thought leaders conference 2024 with the theme Emerging Technologies: Shaping the future of Education organised by Atlas University on 22nd November 2024.</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 94px;">
                                             <p>08.02.2025</p>
                                         </td>
-                                        <td style="width: 918.047px;">
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Employability and Entrepreneurship Career Hub (EECH), in collaboration with the Alumnae Committee, organized an enriching alumni interaction session for the current TYBCA students on Saturday, 08th February 2025.</p>
-                                            <p>&nbsp;</p>
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The esteemed alumnae who shared their insights were:</p>
-                                            <ol>
-                                                <li>Ms. Himanshi Ajmera (2006-07) Project Manager, Deloitte</li>
-                                                <li>Ms. Aishwarya Suryavanshi (Batch 2013-14), FinOps Associate, Nomura</li>
-                                                <li>Ms. Sadaf Shaikh (Batch 2016-17), Consultant, PWC</li>
-                                                <li>Ms. Sejal Hatiskar (Batch 2021-22), Manager, Jio Reliance</li>
-                                            </ol>
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The session proved to be an eye-opener for students, offering valuable perspectives on career planning and providing much-needed clarity about their future paths.</p>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Employability and Entrepreneurship Career Hub (EECH), in collaboration with the Alumnae Committee, organized an enriching alumni interaction session for the current TYBCA students on Saturday, 08th February 2025.</p>
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The esteemed alumnae who shared their insights were:</p>
+                                            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.	Ms. Himanshi Ajmera (2006-07) Project Manager, Deloitte</p>
+                                            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.	Ms. Aishwarya Suryavanshi (Batch 2013-14), FinOps Associate, Nomura</p>
+                                            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.	Ms. Sadaf Shaikh (Batch 2016-17), Consultant, PWC</p>
+                                            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.	Ms. Sejal Hatiskar (Batch 2021-22), Manager, Jio Reliance</p>
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The session proved to be an eye-opener for students, offering valuable perspectives on career planning and providing much-needed clarity about their future paths.</p>
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td style="width: 95px;">
-                                            <p>21.02.2025-</p>
-                                            <p>22.02.2025</p>
+                                        <td style="width: 94px;">
+                                            <p>11.02.2025</p>
                                         </td>
-                                        <td style="width: 918.047px;">
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 95 SYBCA students visited riidl (Research Innovation Incubation Design Lab) of Somaiya college for a 2 day Somaiya Innovation and&nbsp; Impact Festival on 21st and 22nd February 2025.</p>
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students explored groundbreaking innovations, participated in interactive workshops, and engaged with industry experts. From inspired talks and startup showcases to hands-on creative activities like VR gaming, drone challenges, and art workshops, the festival provided a dynamic learning experience.</p>
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The students thoroughly enjoyed the event, but more importantly, they gained valuable insights into innovation, entrepreneurship, and future industry trends.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms. Rahi Mastekar from TYBCA has been selected as a System Associate at Infosys with a salary package of 2.2 LPA.</p>
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td style="width: 95px;">
-                                            <p>20.03.2025</p>
+                                        <td style="width: 94px;">
+                                            <p>18.02.2025</p>
                                         </td>
-                                        <td style="width: 918.047px;">
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rinku Choudhary, Vanshika Jain, Anushree Lele participated&nbsp; in WISE SNDTWU INCUBATION CENTRE&rsquo;s IDEATION 3.0.</p>
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Their topic was &ldquo;Dhoom Machale&rdquo; (Karaoke Room).</p>
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They were elemented after the 1st round and could not proceed further in the competition.</p>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The EECH Cell organised a Pre-placement talk by Silverlink Technologies on 18th Feb 2025. 90 TYBCA students attended the session. Interviews will be scheduled in the coming week.</p>
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td style="width: 95px;">
-                                            <p>17.06.2025</p>
+                                        <td style="width: 94px;">
+                                            <p>15.03.2025</p>
                                         </td>
-                                        <td style="width: 918.047px;">
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Orientation on Placement was conducted for TYBCA students by Ms. Neetu Singhi.</p>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EECH in association with the Alumnae committee (BCA) Organised Alumnae Interaction for SYBCA students on 15th March 2025. Following 3 Alumnae were invited</p>
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms. Nisha Umashankar, Consultant, Capgemini (2018-19 batch)</p>
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms. Milisha Barui, Web Developer, Flairbrains Techmedia Pvt. Ltd. (2020-21 batch)</p>
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms. Sadaf Saiyed, Experience Design Professional, Them Consulting Pvt. Ltd. (2021-22 batch)</p>
+                                        </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td style="width: 94px;">
+                                            <p>17.03.2025</p>
+                                        </td>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Campus placement for Dalvik Apps was organised by the EECH for TYBCA students on 17th March 2025. </p>
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ●	Aptitude and Technical rounds were conducted today. Results are awaited.</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 94px;">
+                                            <p>19.03.2025</p>
+                                        </td>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The EECH Cell organised a Pre-placement talk by I4T on 19th March 2025. 60 TYBCA students attended the session. </p>
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interviews will be scheduled in the coming week</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 94px;">
+                                            <p>25.03.2025</p>
+                                        </td>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms. Komal Ghade  (Technical Associate), Ms. Vaishnavi Mohite (Technical Associate), Ms. Tejal Puthran (Business Development Executive), Ms. Krupa Patekar  (Business Development Executive) (TYBCA) students got selected in Dalvik Apps with the annual package of 3.5 lakhs plus variable benefits on 25th March 2025. </p>
+                                          
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 94px;">
+                                            <p>11.03.2025</p>
+                                        </td>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms. Rahi Mastekar, Ms. Unnati Sawant and Ms. Kimaya Patil (TYBCA) students got selected in Deloitte as Analyst Trainee with the annual package of 3.25 lakhs plus variable benefits on 11th March 2025. </p>
+                                          
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 94px;">
+                                            <p>21.03.2025</p>
+                                        </td>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Diya Gangar, Liz Gonsalues, Riddi Goankar, Aadnya Mhaslikar, SanikaGodkar, Mahek Waghmare students got selected in Silverlink Technologies for the post of IT Recruiter Trainee with the annual package of 2.8 lakhs per annum on 21th March 2025. </p>
+                                          
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 94px;">
+                                            <p>24.03.2025</p>
+                                        </td>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aditi Govekar, Bhumika Gurav, Deepika Vaishya, Gayatri Sukhe, Gunjan sadhwani, Hitiksha Parmar, Krupa Patekar, Mousam Shah, Namrata Rajput, Payal More, Poonam Kharat, Priyal Chormule, Rasika Gavas, Riya Singh, Rupali Sahu, Sakshi Dighe, Samreen Shaikh, Shraddha Gaikwad, Tamanna Khan, Triveni Tandel, Vidya Gavali from TYBCA got selected in I4T Technology for the post of IT Trainee with the annual package of 2.2 lakhs per annum on 24th March 2025.</p>
+                                          
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 94px;">
+                                            <p>03/04/2025</p>
+                                        </td>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Two TYBCA students Ms. Siddhi Shinde and Ms. Kimaya Gharat got selected in Wipro as Scholar Trainee - Work integrated learning program with a stipend of Rs. 15000 per month. The company will sponsor M Tech from BITS or VIT.</p>
+                                          
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 94px;">
+                                            <p>07/04/2025</p>
+                                        </td>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Two TYBCA students Ms. Tejaswini Jadhav and Ms. Hindavi Chaudhari got selected in Wipro as Scholar Trainee - Work integrated learning program with a stipend of Rs. 15000 per month. The company will sponsor M Tech from BITS or VIT.</p>
+                                            
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms. Aiman Ansari from TYBCA selected in Wipro as Scholar Trainee - Work integrated learning program with a stipend of Rs. 15000 per month. The company will sponsor M Tech from BITS or VIT.</p>
+
+                                            
+                                          
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 94px;">
+                                            <p>19/04/2025</p>
+                                        </td>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms. Sakshi Gupta from TYBCA got selected in Wipro as Scholar Trainee - Work integrated learning program with a stipend of Rs. 15000 per month. The company will sponsor M Tech from BITS or VIT.</p>
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 94px;">
+                                            <p>08.05.2025</p>
+                                        </td>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms. Kimaya Gharat and Ms. Krupa Patekar got selected in Bandhan AMC as IT Executive with an Annual Package of 5 LPA.</p>
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 94px;">
+                                            <p>24.05.2025</p>
+                                        </td>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 19 TYBCA students got placed in TCS as Graduate Trainee with the annual package of 2 lacs. Below is the list of students: Arpita Chheda, Jill Gada, Amruta kamble, Bhumika Gurav, Aiman Ansari, Hindavi Chaudhari, Anoushka Sengupta, Pranaya Bhoi, Yukta Ashok Hande, Riya Bhurki, Ansari Zainab, Sakshi Ankush Dighe, Iffat Attar, Pallavi Bora, Aanchal Patil, Saee Shinde, Komal Ghadi, Payal more, Rhea Chetiwal.</p>
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 94px;">
+                                            <p>27.05.2025</p>
+                                        </td>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sanjana gupta, Nikita jaiswar, Sachi siyote, Rajeswari sonif and Sakshi Shinde from TYBCA got selected in I4T Technology for the post of IT Trainee with the annual package of 2.2 lakhs per annum on 27th May 2025.</p>
+                                            
                                         </td>
                                     </tr>
                                     <tr>
@@ -386,35 +541,133 @@
                                             <p>17.06.2025</p>
                                         </td>
                                         <td style="width: 919.094px;">
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Orientation on Placement was conducted for TYBCA students by Ms. Neetu Singhi.</p>
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Orientation on Placement was conducted for TYBCA students by Ms. Neetu Singhi. </p>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td style="width: 94px;">
+                                            <p>19.06.2025</p>
+                                        </td>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms. Prabha Jha, Ms. Sakshi Theek, Ms. Vidya Gavali, Ms. Rhea Chetiwal and Ms. Sakshi Dighe from TYBCA got selected in Wipro as Scholar Trainee - Work integrated learning program with a stipend of Rs. 15000 per month. The company will sponsor M Tech from BITS or VIT. </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 94px;">
+                                            <p>09.07.2025</p>
+                                        </td>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms. Sania Bhogal from TYBCA got selected in Wipro as Scholar Trainee - Work integrated learning program with a stipend of Rs. 15000 per month. The company will sponsor M Tech from BITS or VIT.</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 94px;">
+                                            <p>30.07.2025</p>
+                                        </td>
+                                        <td style="width: 919.094px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms. Tejal Puthran from TYBCA got selected in Firelink Company, Bangalore as Solutions consultant with an annual package of 4 lakh per annum.</p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+
+                            <table style="width: 1130.05px;">
+                                <tbody>
+                                    <!-- <tr>
+                                        <td style="width: 95px;">
+                                            <p><strong>Date</strong></p>
+                                        </td>
+                                        <td style="width: 918.047px;">
+                                            <p><strong>Details</strong></p>
+                                        </td>
+                                    </tr> -->
+                                    <tr>
+                                        <td style="width: 1013.05px;" colspan="2">
+                                            <p><strong>Academic Year 2025 - 2026</strong></p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 95px;">
+                                            <p>17.06.2025</p>
+                                        </td>
+                                        <td style="width: 918.047px;">
+                                            <p>● &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	The Orientation on Placement was conducted for TYBCA students by Ms. Neetu Singhi. </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 95px;">
                                             <p>20.06.2025</p>
                                         </td>
-                                        <td style="width: 919.094px;">
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Orientation on EECH was conducted for SYBCA students by Ms. Neetu Singhi.</p>
+                                        <td style="width: 918.047px;">
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   The Orientation on EECH was conducted for SYBCA students by Ms. Neetu Singhi.  </p>
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td style="width: 94px;">
+                                        <td style="width: 95px;">
                                             <p>03.07.2025</p>
                                         </td>
-                                        <td style="width: 919.094px;">
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Orientation on EECH was conducted for FYBSC IT students by Ms. Neetu Singhi.</p>
+                                        <td style="width: 918.047px;">
+                                             <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   The Orientation on EECH was conducted for FYBSC IT students by Ms. Neetu Singhi </p>
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td style="width: 94px;">
-                                            <p>08.07.2025</p>
+                                        <td style="width: 95px;">
+                                            <p>11.07.2025</p>
                                         </td>
-                                        <td style="width: 919.094px;">
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A guest lecture on " Introduction to Entrepreneurship" was organized for sybca and fybsc IT students.</p>
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A total of 36 students from SYBCA and&nbsp; 41 students from FYBSC-IT attended the lecture.</p>
-                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The resource person was Mr. Akshay Shah, founder and CEO, iweb technology Solutions Pvt. Ltd, Mumbai.</p>
+                                        <td style="width: 918.047px;">
+                                         <p>  The EECH Committee and SNDTWU PLAT team jointly organised the Progressive Learning Ability Test for SY and TY BSc as well as BCA students. This Progressive Learning Ability Test evaluates unique learning styles and skills, offering insights beyond traditional academic measures for the students.</p>
+                                         <p>
+
+                                             The results and analysis of this test will be shared through their online dashboard with students as well with college. 
+                                             The total number of students attempted the test BSc 183, BCA 196
+                                         </p>
+
                                         </td>
                                     </tr>
+                                    <tr>
+                                        <td style="width: 95px;">
+                                            <p>18.07.2025</p>
+                                        </td>
+                                        <td style="width: 918.047px;">
+                                           <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	A guest lecture on "Different AI tools and Introduction to Prompt Engineering" was organized for TYBCA students.</p>
+                                           <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	A total of 78 students from TYBCA attended the lecture.</p>
+                                           <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	The resource person was Mr. Harsh Vitra, founder, BrandLabs, Mumbai.</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 95px;">
+                                            <p>25.07.2025</p>
+                                        </td>
+                                        <td style="width: 918.047px;">
+                                             <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   A guest lecture on "Grooming Skills and Corporate Ethics" was organized for SYBCA and FYBSC IT students. A total of 60 students from SYBCA and FYBSC IT attended the lecture</p>
+                                             <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   The resource person was Ms. Shilpa Tejookaya, Psychologist, Access Conscious Facilitator, Mumbai, India.</p>
+                                        
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 95px;">
+                                            <p>06.08.2025</p>
+                                        </td>
+                                        <td style="width: 918.047px;">
+                                             <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Smt. K G Shah Dept. of Computer Applications in collaboration with Employability and Entrepreneurship Career Hub organised RUSA Sponsored Conference on "Emerging Trends in Campus Placements" on 6th August 2025. 91 TPOs and students from all over Mumbai and Pune attended the conference.</p>
+                                             <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   The keynote speaker for the conference was Mr.  Vamsi Krishna Ithamraju, CTO, Axis Mutual Funds</p>
+                                             <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   The next session was a panel discussion on Emerging Trends and industry alignment.</p>
+                                             <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   The panelists were :  </p>
+                                             <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ○	Mr. Srinivaas Rao, Director, Human Resources, SAS Ltd. </p>
+                                             <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ○	Ms. Megha Desai, Senior Project Manager, MAQ Software  </p>
+                                             <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ○	Ms. Kanchan Gupta, Vice President, Morgan Stanley   </p>
+                                             <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ○	Prof. Sanjay S. Jadhav, Placement Head, MGM College of Engineering    </p>
+                                             <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ○	Dr. Tushar Ram Sangole, Placement Head, Ajeenkya DY Patil University    </p>
+                                             <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ○	Prof. Alpa Narvekar, Associate Director, Corporate Relations, Atlas Skill Tech University     </p>
+
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   The first session was on "Tools and Techniques for Placements" by Amit Shah founder, Offee.</p>
+                                            <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   The second session was on "Students Training and Placements" by Dhwani Mehta, founder Director, OpportuneHR.</p>
+
+                                        
+                                        </td>
+                                    </tr>
+                                  
                                 </tbody>
                             </table>
 
