@@ -246,6 +246,8 @@ $Exams[] = 'bca-result';
 
 $Exams[] = 'pg-result';
 
+$Exams[] = 'bsc-it-result';
+
 
 
 $Committees[] = 'grievance-redressal-committee';
@@ -573,6 +575,8 @@ $contactus[] = 'contact-us';
                                         <li><a href="bca-result"><?php echo $this->lang->line("BCA");?></a></li>
 
                                         <li><a href="pg-result"><?php echo $this->lang->line("PG");?></a></li>
+										
+                                        <li><a href="bscit-result"><?php echo "BSC IT"?></a></li>
 
                                     </ul>
 
@@ -972,6 +976,9 @@ $contactus[] = 'contact-us';
 
                                                 target="_blank">UGC Approval</a></li>
 
+										<li><a href="<?php echo base_url();?>uploads/pdf/Document_1_Letter_of_Approval_LOA.pdf"
+
+                                                target="_blank">AICTE LOA</a></li>
                                     </ul>
 
                                 </li>

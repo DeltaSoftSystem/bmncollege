@@ -478,7 +478,7 @@
 
           <div class="faculty_bx_one">
 
-            <div class="row">
+            <!-- <div class="row">
 
                 <div class="col-sm-3">
 
@@ -508,7 +508,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
           </div>
 
