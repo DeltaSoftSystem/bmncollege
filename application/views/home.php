@@ -153,8 +153,8 @@ if(isset($home['academicCalendar']) && is_array($home['academicCalendar'])){
                                     <li><a href="<?php echo base_url();?>uploads/pdf/ACADEMIC CALENDAR  (JUNE 2022 - JUNE 2023).pdf" target="_blank"><?php echo $this->lang->line("2022-2023");?> </a></li>
                                     <li><a href="<?php echo base_url();?>uploads/pdf/ACADEMIC CALENDAR  (June 2023 - May 2024).pptx" target="_blank"><?php echo $this->lang->line("2023-2024");?> </a></li>
                                     <li><a href="<?php echo base_url();?>uploads/pdf/ACADEMIC CALENDAR  (JUNE 2024 - MAY2025).pptx.pdf" target="_blank">2024-2025</a></li>
-                                    <li><a href="<?php echo base_url();?>uploads/pdf/2025 - 2026 ACADEMIC CALENDAR  (JUNE 2025 - MAY 2026).pptx (NEW WITH BCA).pdf" target="_blank">2025-2026</a></li>
-                                </ul>
+										<li><a href="<?php echo base_url();?>uploads/pdf/2025_2026_ACADEMIC_CALENDAR_JUNE_2025_MAY_2026.pdf" target="_blank">2025-2026</a></li>
+									</ul>
                             </li>
  <li class="mobile_menu_on sub"><a href="<?php echo base_url();?>uploads/pdf/2020 - 2021 ACADEMIC CALENDAR.pdf" target="_blank"><i class="fa fa-angle-right"
                                         aria-hidden="true"></i> <?php echo $this->lang->line("2020-2021");?> </a></li>
@@ -166,7 +166,7 @@ if(isset($home['academicCalendar']) && is_array($home['academicCalendar'])){
                                         aria-hidden="true"></i> 2023-2024</a></li>
                                     <li class="mobile_menu_on sub"><a href="<?php echo base_url();?>uploads/pdf/ACADEMIC CALENDAR  (JUNE 2024 - MAY2025).pptx.pdf" target="_blank"><i class="fa fa-angle-right"
                                         aria-hidden="true"></i> 2024-2025 </a></li>    
-                                    <li class="mobile_menu_on sub"><a href="<?php echo base_url();?>uploads/pdf/2025 - 2026 ACADEMIC CALENDAR  (JUNE 2025 - MAY 2026).pptx (NEW WITH BCA).pdf" target="_blank"><i class="fa fa-angle-right"
+                                    <li class="mobile_menu_on sub"><a href="<?php echo base_url();?>uploads/pdf/2025_2026_ACADEMIC_CALENDAR_JUNE_2025_MAY_2026.pdf" target="_blank"><i class="fa fa-angle-right"
                                         aria-hidden="true"></i> 2025-2026 </a></li>    
 
                             <li><a href="#"><i class="fa fa-desktop" aria-hidden="true"></i> <?php echo $this->lang->line("E-Learning");?>
