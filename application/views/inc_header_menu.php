@@ -1082,6 +1082,7 @@ $contactus[] = 'contact-us';
                                                     <li><a href="<?php echo base_url();?>uploads/pdf/Minutes of meeting grievance redressal 30th March 2024.docx" target="_blank"   >March 2024</a></li>
                                                     <li><a href="<?php echo base_url();?>uploads/pdf/Minutes of meeting grievance redressal 25th October 2024 (1).pdf" target="_blank"   >October 2024</a></li>
                                                     <li><a href="<?php echo base_url();?>uploads/pdf/Minutes Student Grievance Redressal 26th March 2025.pdf" target="_blank"   >March 2025</a></li>
+                                                    <li><a href="<?php echo base_url();?>uploads/pdf/Minutes_Student_Grievance_Redressal_15th_November_2025.pdf" target="_blank"   >November 2025</a></li>
 
                                                 </li>
 
@@ -1128,6 +1129,8 @@ $contactus[] = 'contact-us';
                                                 <li><a href="<?php echo base_url();?>uploads/pdf/Minutes of anti ragging commitee  26th October 2024.pdf"   target="_blank">Oct 2024</a></li>
 
                                                 <li><a href="<?php echo base_url();?>uploads/pdf/Minutes of anti ragging commitee  28th March 2025.pdf"   target="_blank">March 2025</a></li>
+
+                                                <li><a href="<?php echo base_url();?>uploads/pdf/Minutes_of_anti_ragging_commitee_14th_November_2025.pdf"   target="_blank">November 2025</a></li>
 
 
                                                          

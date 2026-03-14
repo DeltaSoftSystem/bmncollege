@@ -217,6 +217,22 @@ if(isset($home['downloadhome']) && is_array($home['downloadhome'])){
                                         class="fa fa-angle-right" aria-hidden="true"></i> Services</a></li>
                             <li class="mobile_menu_on"><a href="<?php echo base_url();?>uploads/pdf/3_SOP_Desk (University_College) Logins (1).pdf" target="_blank"><i
                                         class="fa fa-angle-right" aria-hidden="true"></i> Institute Login</a></li>
+
+
+
+
+                            <li><a href="#"><i class="fa fa-desktop" aria-hidden="true"></i> AICTE
+                                    <span><i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
+                                <ul>
+                                    <li><a href="<?php echo base_url();?>uploads/pdf/LOA.pdf" target="_blank">LOA </a></li>
+                                    <li><a href="<?php echo base_url();?>uploads/pdf/MDisclosure.pdf" target="_blank">Mandatory Disclosure </a></li>
+                                </ul>
+                            </li>
+
+                            <li class="mobile_menu_on"><a href="<?php echo base_url();?>uploads/pdf/LOA.pdf" target="_blank"><i class="fa fa-angle-right"
+                                        aria-hidden="true"></i> LOA </a></li>
+                            <li class="mobile_menu_on"><a href="<?php echo base_url();?>uploads/pdf/MDisclosure.pdf" target="_blank"><i
+                                        class="fa fa-angle-right" aria-hidden="true"></i> Mandatory Disclosure</a></li>
                         </ul>
                     </div>
 
