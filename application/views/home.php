@@ -107,6 +107,14 @@
                                                     target="_blank">Overall 2025</a></li>
                                         </ul>
                                     </li>
+                                    <li><a href="#">2026</a>
+                                        <ul>
+                                            <li><a href="<?php echo base_url();?>uploads/pdf/COLLEGE_Dr_Bhanuben_Mahendra_Nanavati_College_of_Home_Science_2026.pdf"
+                                                    target="_blank">College 2026</a></li>
+                                            <li><a href="<?php echo base_url();?>uploads/pdf/OVERALL_Dr_Bhanuben_Mahendra_Nanavati_College_of_Home_Science_2026.pdf"
+                                                    target="_blank">Overall 2026</a></li>
+                                        </ul>
+                                    </li>
                                 </ul>
                             </li>
 
@@ -137,6 +145,30 @@
                             <li class="mobile_menu_on sub"><a
                                     href="<?php echo base_url();?>uploads/pdf/college-2020.pdf" target="_blank"><i
                                         class="fa fa-circle-o" aria-hidden="true"></i> <?php echo $this->lang->line("Overall 2022");?></a></li>
+                            <li class="mobile_menu_on sub"><a
+                                    href="<?php echo base_url();?>uploads/pdf/NIRF 2024 - COLLEGE Dr. Bhanuben Mahendra Nanavati College of Home Science20231223-.pdf" target="_blank"><i
+                                        class="fa fa-circle-o" aria-hidden="true"></i> College 2023</a></li>
+                            <li class="mobile_menu_on sub"><a
+                                    href="<?php echo base_url();?>uploads/pdf/NIRF 2024 - COLLEGE Dr. Bhanuben Mahendra Nanavati College of Home Science20231223-.pdf" target="_blank"><i
+                                        class="fa fa-circle-o" aria-hidden="true"></i>Overall 2023</a></li>
+                            <li class="mobile_menu_on sub"><a
+                                    href="<?php echo base_url();?>uploads/pdf/OVERALL - Dr. Bhanuben Mahendra Nanavati College of Home Science20240111-.pdf" target="_blank"><i
+                                        class="fa fa-circle-o" aria-hidden="true"></i> College 2024</a></li>
+                            <li class="mobile_menu_on sub"><a
+                                    href="<?php echo base_url();?>uploads/pdf/OVERALL - Dr. Bhanuben Mahendra Nanavati College of Home Science20240111-.pdf" target="_blank"><i
+                                        class="fa fa-circle-o" aria-hidden="true"></i> Overall 2024</a></li>
+                            <li class="mobile_menu_on sub"><a
+                                    href="<?php echo base_url();?>uploads/pdf/OVERALL - Dr. Bhanuben Mahendra Nanavati College of Home Science20240111-.pdf" target="_blank"><i
+                                        class="fa fa-circle-o" aria-hidden="true"></i> College 2025</a></li>
+                            <li class="mobile_menu_on sub"><a
+                                    href="<?php echo base_url();?>uploads/pdf/OVERALL - Dr. Bhanuben Mahendra Nanavati College of Home Science20240111-.pdf" target="_blank"><i
+                                        class="fa fa-circle-o" aria-hidden="true"></i> Overall 2025</a></li>
+                            <li class="mobile_menu_on sub"><a
+                                    href="<?php echo base_url();?>uploads/pdf/COLLEGE_Dr_Bhanuben_Mahendra_Nanavati_College_of_Home_Science_2026.pdf" target="_blank"><i
+                                        class="fa fa-circle-o" aria-hidden="true"></i> College 2026</a></li>
+                            <li class="mobile_menu_on sub"><a
+                                    href="<?php echo base_url();?>uploads/pdf/OVERALL_Dr_Bhanuben_Mahendra_Nanavati_College_of_Home_Science_2026.pdf" target="_blank"><i
+                                        class="fa fa-circle-o" aria-hidden="true"></i>Overall 2026</a></li>
 <?php
 $academicCalendar = "uploads/pdf/ACADEMIC CALENDAR  (June 2023 - May 2024)dated 4th jan.pdf"; 
 if(isset($home['academicCalendar']) && is_array($home['academicCalendar'])){
